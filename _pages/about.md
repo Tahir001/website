@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tahir Muhammad's Personal Website"
+#title: "Tahir Muhammad's Personal Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
