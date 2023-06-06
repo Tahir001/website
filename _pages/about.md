@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: "Tahir Muhammad's Personal Website"
+title: "👋 Hello!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-# 👋 Hello!
-
 My name is Tahir Muhammad, and I am a technology enthusiast. I love to learn, work on solving challenging & meaningful problems with the help of technology, and enjoy automating mundane, redundant tasks for my colleagues and friends to help spread the joy of tech. 😊💻
 
 Currently, I am involved in a few exciting initiatives:
 
-- 🧪 Data Scientist/Software Engineer at BlueCat
-- 🎓 AI & ML Researcher at UofT
-- 👨‍💻 Software Engineer at QuranJourney
+- 👨‍💻 Software Engineer at BlueCat
+- 🧪 Data Scientist / ML Engineer at GlucoseVision
+- 🎓 AI & ML Researcher at UofT 
 
 I completed my HBSc in Statistics and Computer Science from UofT, where I also taught a plethora of computer science and statistics courses as a TA. During my undergraduate studies, I also published some papers. In my free time, you'll find me working on my passion projects, playing video games, power-lifting, or participating in any kind of sport I can get my hands on. 📚🎮💪🏀
 
