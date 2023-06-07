@@ -14,7 +14,7 @@ Currently, I am involved in a few exciting initiatives:
 
 - 👨‍💻 Software Engineer at BlueCat
 - 🧪 Data Scientist / ML Engineer at GlucoseVision
-- 🎓 AI & ML Researcher at UofT 
+- 🎓 AI & ML Researcher at UofT
 
 I completed my HBSc in Statistics and Computer Science from UofT, where I also taught a plethora of computer science and statistics courses as a TA. During my undergraduate studies, I also published some papers. In my free time, you'll find me working on my passion projects, playing video games, power-lifting, or participating in any kind of sport I can get my hands on. 📚🎮💪🏀
 
