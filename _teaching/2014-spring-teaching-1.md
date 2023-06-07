@@ -21,7 +21,7 @@ Description of the course and your teaching experience for STA237.
 
 ## STA238 - Data Analysis II
 
-Description of the course and your teaching experience for STA238.
+Description of the course and your teaching experience for STAAA.
 
 ## STAC67/STA2002 - Multivariate Regression Analysis
 
