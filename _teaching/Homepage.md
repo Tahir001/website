@@ -1,7 +1,6 @@
 ---
 title: "My Teaching Philosophy in a Nutshell"
 collection: teaching
-type: "Teaching"
 permalink: /teaching/
 location: "Toronto, Canada"
 ---
