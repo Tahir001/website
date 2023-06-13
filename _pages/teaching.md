@@ -34,7 +34,3 @@ I strongly believe in the ability of the human brain to learn and grasp anything
 
 
 Please visit the links for more information on the relevant courses.
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
