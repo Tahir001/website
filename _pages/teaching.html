@@ -6,14 +6,15 @@ author_profile: true
 ---
 
 {% include base_path %}
-<!--
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
 
 {% for page in site.teaching %}
   {% if page.url == '/teaching/Homepage.md' %}
     <a href="{{ page.url }}">{{ page.title }}</a>
   {% endif %}
 {% endfor %}
+ 
+<!--
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+-->

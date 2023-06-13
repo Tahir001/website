@@ -25,3 +25,7 @@ Below are the courses I have taught:
   Teaching Assistant, University of Toronto, Department of Mathematical and Computational Sciences, 2022
 
 Please visit the links for more information on each course.
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
