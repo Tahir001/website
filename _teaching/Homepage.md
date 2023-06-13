@@ -1,7 +1,7 @@
 ---
 title: "My Teaching Philosophy in a Nutshell"
 collection: teaching
-type: "Teaching Assistant"
+type: "teaching"
 permalink: /teaching/
 location: "Toronto, Canada"
 ---
@@ -13,9 +13,16 @@ Teaching Experience (University of Toronto)
 
 Below are the courses I have taught:
 
-- [CSC108 - Introduction to Programming with Python](http://www.cs.toronto.edu/~rgrosse/courses/csc411_f18/)
-- [CSC411 - Machine Learning](http://www.cs.toronto.edu/~rgrosse/courses/csc411_f18/)
-- [STA347 - Probability Theory](http://www.cs.toronto.edu/~rgrosse/courses/csc411_f18/)
-- [MAT223 - Linear Algebra](http://www.cs.toronto.edu/~rgrosse/courses/csc411_f18/)
+- [**CSC108 - Introduction to Programming with Python**](http://www.cs.toronto.edu/~rgrosse/courses/csc108_f18/)
+  Teaching Assistant, University of Toronto, Department of Mathematical and Computational Sciences, 2022
+
+- [**CSC411 - Machine Learning**](http://www.cs.toronto.edu/~rgrosse/courses/csc411_f18/)
+  Teaching Assistant, University of Toronto, Department of Mathematical and Computational Sciences, 2022
+
+- [**STA347 - Probability Theory**](http://www.cs.toronto.edu/~rgrosse/courses/sta347_f18/)
+  Teaching Assistant, University of Toronto, Department of Mathematical and Computational Sciences, 2022
+
+- [**MAT223 - Linear Algebra**](http://www.cs.toronto.edu/~rgrosse/courses/mat223_f18/)
+  Teaching Assistant, University of Toronto, Department of Mathematical and Computational Sciences, 2022
 
 Please visit the links for more information on each course.
