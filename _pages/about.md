@@ -13,10 +13,12 @@ My name is Tahir Muhammad, and I am a technology enthusiast. I love to learn, wo
 Currently, I am involved in a few exciting initiatives:
 
 - 👨‍💻 Software Engineer at BlueCat
-- 🧪 Data Scientist / ML Engineer at GlucoseVision
-- 🎓 AI & ML Researcher at UofT
+- 🧪 Freelance Data Scientist / ML Engineer 
+- 🎓 Teacher & Researcher at the University of Toronto
 
-I completed my HBSc in Statistics and Computer Science from UofT, where I also taught a plethora of computer science and statistics courses as a TA. During my undergraduate studies, I also published some papers. In my free time, you'll find me working on my passion projects, playing video games, power-lifting, or participating in any kind of sport I can get my hands on. 📚🎮💪🏀
+I completed my HBSc in Statistics and Computer Science from UofT, where I also taught a plethora of computer science and statistics courses as a TA. During my undergraduate studies, I also published some papers,and worked as a research engineer in two really interesting fields: Machine Learning and Theoretical Statistics. One of them led to a paper being published, whereas the other led to a pitch to ML Director of Scotiabank (One of Canada's largest bank) along with RCMP on how to stop money laundering and human traficking with the use of AI. 
+
+ In my free time, you'll find me working on my passion projects, playing video games, power-lifting, or participating in any kind of sport I can get my hands on. 📚🎮💪🏀
 
 Please feel free to reach out on [LinkedIn](https://www.linkedin.com/in/tahir-muhammad-7b534016b/) for any inquiries. I'm always happy to help in any way I can. 🤝
 
