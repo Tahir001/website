@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Projects & Publications"
-    url: /publications/
+  - title: "Portfolio"
+    url: /portfolio/
 
   - title: "Teaching"
     url: /teaching/    
@@ -9,8 +9,11 @@ main:
   - title: "Engineering"
     url: /talks/    
 
-  - title: "Artificial Intelligence"
+  - title: "AI Notes"
     url: /cv/
     
-  - title: "Data Science Fundamentals "
-    url: /portfolio/
+  - title: "DS Fundamentals"
+    url: /publications/
+
+  - title: "Guide"
+    url: /markdown/
