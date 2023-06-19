@@ -23,14 +23,14 @@ I strongly believe in the ability of the human brain to learn and grasp anything
 - ## [STA218 - Statistics for Management](https://mcs.utm.utoronto.ca/~nosedal/218.html)
   Teaching Assistant, *University of Toronto, Department of Mathematical and Computational Sciences,* 2021
 
+- ## [STA130 - Introduction to Data Science](https://artsci.calendar.utoronto.ca/course/sta130h1)
+  Teaching Assistant, *University of Toronto, Department of Mathematical and Computational Sciences,* 2021
+
 - ## [CSC108 - Introduction to Programming](https://cssc.utm.utoronto.ca/resources/csc108)
   Teaching Assistant, *University of Toronto, Department of Mathematical and Computational Sciences,* 2021
 
-- ## [STA130 - Introduction to Data Science](https://artsci.calendar.utoronto.ca/course/sta130h1)
-  Teaching Assistant, *University of Toronto, Department of Mathematical and Computational Sciences,* 2020
-
  - ## [STA107 - Probability and Reasoning](https://utm.calendar.utoronto.ca/course/sta107h5)
-  Teaching Assistant, *University of Toronto, Department of Mathematical and Computational Sciences*, 2020
+  Teaching Assistant, *University of Toronto, Department of Mathematical and Computational Sciences*, 2021
 
 
 Please visit the links for more information on the relevant courses.
