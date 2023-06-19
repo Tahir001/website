@@ -3,17 +3,17 @@ main:
   - title: "Teaching"
     url: /teaching/  
 
-  - title: "Portfolio"
-    url: /portfolio/ 
+  # - title: "Portfolio"
+  #   url: /portfolio/ 
     
   - title: "Engineering"
     url: /talks/    
 
   - title: "AI Notes"
-    url: /cv/
+    url: /AI Notes/
     
   - title: "DS Fundamentals"
     url: /publications/
 
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
