@@ -5,7 +5,7 @@ permalink: /Engineering/
 author_profile: true
 ---
 
-Throughout my career in technology, I've realized the importance of continuous learning. Since my undergraduate studies, I've been actively acquiring new programming skills, frameworks, and tech stacks to contribute effectively to any project. Although it can be challenging, my unwavering commitment to learning and overcoming obstacles has consistently impressed others. To promote the idea of lifelong learning, I've created this page to share the notes I've gathered while exploring various technologies. I hope these notes prove valuable to your own learning and remind you that we are all constantly learning. No one has comprehensive knowledge of everything, and seeking assistance is beneficial for everyone. Embracing lifelong learning, collaboration, and support are crucial for personal and professional growth.
+Throughout my career in technology, I've taken a various amount of roles in Data (Analyst, Scientist, and Engineer) and in Engineering (Software, Data, Machine Learning), which has made me realize the importance of continuous learning. Since my undergraduate studies, I've been actively acquiring new programming skills, frameworks, and tech stacks to contribute effectively to any project. Although it can be challenging, my unwavering commitment to learning and overcoming obstacles has consistently impressed others. To promote the idea of lifelong learning, I've created this page to share the notes I've gathered while exploring various technologies. I hope these notes prove valuable to your own learning and remind you that we are all constantly learning. No one has comprehensive knowledge of everything, and seeking assistance is beneficial for everyone. Embracing lifelong learning, collaboration, and support are crucial for personal and professional growth.
 
 # Engineering Technologies & Programming Languages 
 
@@ -15,6 +15,8 @@ Throughout my career in technology, I've realized the importance of continuous l
 - 🗄️ [SQL - **Structured Query Language**](https://www.notion.so/SQL-Structured-Query-Language-3d3b50eb6cb74e8bada9eb13f4be4563?pvs=21)
 - 🌐 [JavaScript](https://www.notion.so/JavaScript-327dc9775c85491884a0fe4dc74a4748?pvs=21)
 - 📊 [R (Programming Language) crash course](https://www.notion.so/R-Programming-Language-crash-course-3be5e36b1d76446c915fcef585a7a8c9?pvs=21)
+- 🌐 [YAML](https://www.notion.so/JavaScript-327dc9775c85491884a0fe4dc74a4748?pvs=21)
+- 🌐 [Spark](https://www.notion.so/JavaScript-327dc9775c85491884a0fe4dc74a4748?pvs=21)
 
 # Computer Science Fundamentals
 
@@ -51,9 +53,12 @@ Throughout my career in technology, I've realized the importance of continuous l
 - 🐘 [Big Data (Hadoop, HDFS, Spark, Scala)](https://www.notion.so/Big-Data-Hadoop-HDFS-Spark-Scala-3e860bedb09e46d4abad030642e6259f?pvs=21)
 - 📊 [Tableau](https://www.notion.so/Tableau-508337e681d5411082982f9929380304?pvs=21)
 
-# Data Engineer Path
+# Data Engineering Tools
 
 - 📚 [Data Engineer Introduction](https://www.notion.so/Data-Engineer-Introduction-8c3f204c80984e7f870dce2125b45bfc?pvs=21)
+- 📚 [Airflow]
+- 📚 []
+
 
 # Mathematics & Statistics
 
