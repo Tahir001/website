@@ -9,8 +9,8 @@ Throughout my time in a tech career, I've taken on various amount of roles in Da
 
 # Programming Languages
 
-- ⭐️ [Python](https://www.notion.so/Python-23512f9e5aca4fe99b505f8aec3d61b3?pvs=21)
-- 🗄️ [SQL - **Structured Query Language**](https://www.notion.so/SQL-Structured-Query-Language-3d3b50eb6cb74e8bada9eb13f4be4563?pvs=21)
+- 🐍 [Python](https://tahirm.notion.site/Python-23512f9e5aca4fe99b505f8aec3d61b3)
+- 🗄️ [SQL - Structured Query Language](https://www.notion.so/SQL-Structured-Query-Language-3d3b50eb6cb74e8bada9eb13f4be4563?pvs=21)
 - 🌐 [JavaScript](https://www.notion.so/JavaScript-327dc9775c85491884a0fe4dc74a4748?pvs=21)
 - 📊 [R (Programming Language) crash course](https://www.notion.so/R-Programming-Language-crash-course-3be5e36b1d76446c915fcef585a7a8c9?pvs=21)
 - 🌐 [YAML](https://www.notion.so/JavaScript-327dc9775c85491884a0fe4dc74a4748?pvs=21)
@@ -18,7 +18,7 @@ Throughout my time in a tech career, I've taken on various amount of roles in Da
 
 # Computer Science Fundamentals
 
-- 🚀 [Software Engineering Concepts](https://www.notion.so/Software-Engineering-Concepts-05d56b701b5048a99bf2d80f6b05310d?pvs=21)
+- 🚀 [Software Engineering Concepts](https://tahirm.notion.site/Software-Engineering-Concepts-05d56b701b5048a99bf2d80f6b05310d?pvs=4)
 - 📚 [Data Structures](https://www.notion.so/Data-Structures-23671ba52b4b4fe387d6f43a596bd58c?pvs=21)
 - 🔍 [Algorithms](https://www.notion.so/Algorithms-043c3ce6a3d74ddabee60ccd3f72d88a?pvs=21)
 - 🧪 [Object Oriented Programming](https://www.notion.so/Object-Oriented-Programming-94a878065ed44c9b8a36b348a1d0ff38?pvs=21)
@@ -36,40 +36,36 @@ Throughout my time in a tech career, I've taken on various amount of roles in Da
 
 # Full Stack Software Engineering
 
-- 🐳 [Docker (1)](https://www.notion.so/Docker-1-8b83f6f6a2b243cf826d5db2dc1f13f4?pvs=21)
-- 🗄️ Postgres and Postman
-- 🐧 Linux/Unix, and Terminal
-- 🐙 Git and Github
-- 🚀 CI/CD Fundamentals
-- 🌐 Environment Variables
-- 🌐 [Web Development Primer](https://www.notion.so/Web-Development-Primer-8d308492765e404aae87d29179b1baaa?pvs=21)
+- 🐳 [Docker](https://www.notion.so/Docker-1-8b83f6f6a2b243cf826d5db2dc1f13f4?pvs=21)
+- 🗄️ [Postgres and Postman](https://www.notion.so/Docker-1-8b83f6f6a2b243cf826d5db2dc1f13f4?pvs=21)
+- 🐧 [Linux/Unix, and Terminal](https://www.notion.so/Docker-1-8b83f6f6a2b243cf826d5db2dc1f13f4?pvs=21)
+- 🐙 [Git and Github](https://www.notion.so/Docker-1-8b83f6f6a2b243cf826d5db2dc1f13f4?pvs=21)
+- 🚀 [CI/CD Fundamentals]
+- 🌐 [Environment Variables](https://www.notion.so/Docker-1-8b83f6f6a2b243cf826d5db2dc1f13f4?pvs=21)
+- 🌐 [Web Development Primer)](https://www.notion.so/Web-Development-Primer-8d308492765e404aae87d29179b1baaa?pvs=21)
 - 🐳 [Docker](https://www.notion.so/Docker-8c58b6cecaa64d82a361b28dc4974809?pvs=21)
 - ☁️ [Cloud Computing](https://www.notion.so/Cloud-Computing-116505e760a24ba3b8373dd7c023c331?pvs=21)
 
 # Data Science Tools
 
-- 🐘 [Big Data (Hadoop, HDFS, Spark, Scala)](https://www.notion.so/Big-Data-Hadoop-HDFS-Spark-Scala-3e860bedb09e46d4abad030642e6259f?pvs=21)
+- 🐘 [Big Data (Hadoop, Hive and HDFS)](https://www.notion.so/Big-Data-Hadoop-HDFS-Spark-Scala-3e860bedb09e46d4abad030642e6259f?pvs=21)
 - 📊 [Tableau](https://www.notion.so/Tableau-508337e681d5411082982f9929380304?pvs=21)
 
 # Data Engineering Tools
 
 - 📚 [Data Engineer Introduction](https://www.notion.so/Data-Engineer-Introduction-8c3f204c80984e7f870dce2125b45bfc?pvs=21)
 - 📚 [Airflow]
-- 📚 []
-
 
 # Mathematics & Statistics
 
 - 🔢 [Linear Algebra Foundations](https://www.notion.so/Linear-Algebra-Foundations-80574f51ca944c9a8b9196431ac1fbb9?pvs=21)
 - ➗ [Calculus](https://www.notion.so/Calculus-b1aa6236b1014b2496a2462a7982d7c3?pvs=21)
-- 🎲 [Probability](https://www.notion.so/Probability-ec9e11463ec2447b98506a3267f13fab?pvs=21)
-- 📊 R (Programming Language) crash course
-- 🎲 Probability Introduction
-- 🎲 Random Variables
-- 📊 Inference
-- 📊 A/B testing
-- 📊 Casual Inference Models
-- 📊 Entropy and Extropy for Type II censored data
+- 🎲 [Probability Introduction](https://www.notion.so/Probability-ec9e11463ec2447b98506a3267f13fab?pvs=21)
+- 🎲 [Random Variables](https://www.notion.so/Probability-ec9e11463ec2447b98506a3267f13fab?pvs=21)
+- 📊 [Inference](https://www.notion.so/Probability-ec9e11463ec2447b98506a3267f13fab?pvs=21)
+- 📊 [Hypothesis Testing & Confidence Intervals](https://www.notion.so/Probability-ec9e11463ec2447b98506a3267f13fab?pvs=21)
+- 📊 [Casual Inference Models](https://www.notion.so/Probability-ec9e11463ec2447b98506a3267f13fab?pvs=21)
+- 📊 [Entropy and Extropy for Type II censored data](https://www.notion.so/Probability-ec9e11463ec2447b98506a3267f13fab?pvs=21)
 
 # Cloud Computing
 
