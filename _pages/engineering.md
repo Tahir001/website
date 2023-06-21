@@ -10,7 +10,7 @@ Throughout my time in a tech career, I've taken on various amount of roles in Da
 # Programming Languages
 
 - 🐍 [Python](https://tahirm.notion.site/Python-23512f9e5aca4fe99b505f8aec3d61b3)
-- 🗄️ [SQL - Structured Query Language](https://www.notion.so/SQL-Structured-Query-Language-3d3b50eb6cb74e8bada9eb13f4be4563?pvs=21)
+- 🗄️ [SQL - Structured Query Language](https://tahirm.notion.site/SQL-Structured-Query-Language-3d3b50eb6cb74e8bada9eb13f4be4563)
 - 🌐 [JavaScript](https://www.notion.so/JavaScript-327dc9775c85491884a0fe4dc74a4748?pvs=21)
 - 📊 [R (Programming Language) crash course](https://www.notion.so/R-Programming-Language-crash-course-3be5e36b1d76446c915fcef585a7a8c9?pvs=21)
 - 🌐 [YAML](https://www.notion.so/JavaScript-327dc9775c85491884a0fe4dc74a4748?pvs=21)
@@ -61,17 +61,18 @@ Throughout my time in a tech career, I've taken on various amount of roles in Da
 - 🔢 [Linear Algebra Foundations](https://www.notion.so/Linear-Algebra-Foundations-80574f51ca944c9a8b9196431ac1fbb9?pvs=21)
 - ➗ [Calculus](https://www.notion.so/Calculus-b1aa6236b1014b2496a2462a7982d7c3?pvs=21)
 - 🎲 [Probability Introduction](https://www.notion.so/Probability-ec9e11463ec2447b98506a3267f13fab?pvs=21)
-- 🎲 [Random Variables](https://www.notion.so/Probability-ec9e11463ec2447b98506a3267f13fab?pvs=21)
+- 📈 [Random Variables](https://www.notion.so/Probability-ec9e11463ec2447b98506a3267f13fab?pvs=21)
 - 📊 [Inference](https://www.notion.so/Probability-ec9e11463ec2447b98506a3267f13fab?pvs=21)
-- 📊 [Hypothesis Testing & Confidence Intervals](https://www.notion.so/Probability-ec9e11463ec2447b98506a3267f13fab?pvs=21)
-- 📊 [Casual Inference Models](https://www.notion.so/Probability-ec9e11463ec2447b98506a3267f13fab?pvs=21)
+- 📉 [Hypothesis Testing & Confidence Intervals](https://www.notion.so/Probability-ec9e11463ec2447b98506a3267f13fab?pvs=21)
+- 📚 [Causal Inference Models](https://www.notion.so/Probability-ec9e11463ec2447b98506a3267f13fab?pvs=21)
 - 📊 [Entropy and Extropy for Type II censored data](https://www.notion.so/Probability-ec9e11463ec2447b98506a3267f13fab?pvs=21)
 
 # Cloud Computing
 
-- ☁️ AWS Fundamentals
-- ☁️ Azure Fundamentals
-- ☁️ GCP Fundamentals
+- ☁️ [AWS Fundamentals](https://www.example.com/aws-fundamentals)
+- ☁️ [Azure Fundamentals](https://www.example.com/azure-fundamentals)
+- ☁️ [GCP Fundamentals](https://www.example.com/gcp-fundamentals)
+
 
 # Product Sense / Case Study Topics
 
