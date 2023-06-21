@@ -51,9 +51,9 @@ Throughout my time in a tech career, I've taken on various amount of roles in Da
 - 🐘 [Big Data (Hadoop, Hive and HDFS)](https://www.notion.so/Big-Data-Hadoop-HDFS-Spark-Scala-3e860bedb09e46d4abad030642e6259f?pvs=21)
 - 📊 [Tableau](https://www.notion.so/Tableau-508337e681d5411082982f9929380304?pvs=21)
 
-# Data Engineering Tools
-
-- 📚 [Data Engineer Introduction](https://www.notion.so/Data-Engineer-Introduction-8c3f204c80984e7f870dce2125b45bfc?pvs=21)
+# Big Data Engineering Tools
+- [Big Data - Comprehensive Technology Tools](https://tahirm.notion.site/Big-Data-Hadoop-HDFS-Spark-Scala-3e860bedb09e46d4abad030642e6259f)
+- 📚 [Data Engineer Introduction](https://tahirm.notion.site/Data-Engineer-Introduction-8c3f204c80984e7f870dce2125b45bfc?pvs=4)
 - 📚 [Airflow]
 
 # Mathematics & Statistics
