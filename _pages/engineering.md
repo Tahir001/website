@@ -23,7 +23,16 @@ Throughout my time in a tech career, I've taken on various amount of roles in Da
 - 🔍 [Algorithms](https://www.notion.so/Algorithms-043c3ce6a3d74ddabee60ccd3f72d88a?pvs=21)
 - 🧪 [Object Oriented Programming](https://www.notion.so/Object-Oriented-Programming-94a878065ed44c9b8a36b348a1d0ff38?pvs=21)
 - 🎯 [Patterns for Coding Interviews](https://www.notion.so/Patterns-for-Coding-Interviews-fdee4b717ef745ee871aab2e2ad905be?pvs=21)
+
+# Systems Design & Infrastructure Concepts 
 - 🏗️ [Systems Design Crash Course](https://www.notion.so/Systems-Design-Crash-Course-5b8dadb63077441c9666a23468218174?pvs=21)
+- 🏛️ [Fundemental Background (Computer and App Architecture)](https://www.notion.so/Systems-Design-Crash-Course-5b8dadb63077441c9666a23468218174?pvs=21)
+- 🌍 [Networking Topics](https://www.notion.so/Systems-Design-Crash-Course-5b8dadb63077441c9666a23468218174?pvs=21)
+- 🤝 [APIs - Application Programming Interface](https://www.notion.so/Systems-Design-Crash-Course-5b8dadb63077441c9666a23468218174?pvs=21)
+- 🔄 [Caching Basics](https://www.notion.so/Systems-Design-Crash-Course-5b8dadb63077441c9666a23468218174?pvs=21)
+- ⚖️ [Load Balancers & Hashing](https://www.notion.so/Systems-Design-Crash-Course-5b8dadb63077441c9666a23468218174?pvs=21)
+- 🗄️ [Storage](https://www.notion.so/Systems-Design-Crash-Course-5b8dadb63077441c9666a23468218174?pvs=21)
+- 🗃️ [Big Data - Mapreduce & Message Queues](https://www.notion.so/Systems-Design-Crash-Course-5b8dadb63077441c9666a23468218174?pvs=21)
 
 # Artificial Intelligence
 
@@ -44,7 +53,7 @@ Throughout my time in a tech career, I've taken on various amount of roles in Da
 - 🌐 [Environment Variables](https://www.notion.so/Docker-1-8b83f6f6a2b243cf826d5db2dc1f13f4?pvs=21)
 - 🌐 [Web Development Primer)](https://www.notion.so/Web-Development-Primer-8d308492765e404aae87d29179b1baaa?pvs=21)
 - 🐳 [Docker](https://www.notion.so/Docker-8c58b6cecaa64d82a361b28dc4974809?pvs=21)
-- ☁️ [Cloud Computing](https://www.notion.so/Cloud-Computing-116505e760a24ba3b8373dd7c023c331?pvs=21)
+- ☁️  [Cloud Computing](https://www.notion.so/Cloud-Computing-116505e760a24ba3b8373dd7c023c331?pvs=21)
 
 # Data Science Tools
 
