@@ -11,9 +11,9 @@ Throughout my time in a tech career, I've taken on various amount of roles in Da
 
 - ⭐ [Python](https://tahirm.notion.site/Python-23512f9e5aca4fe99b505f8aec3d61b3)
 - 🗄️ [SQL - Structured Query Language](https://tahirm.notion.site/SQL-Structured-Query-Language-3d3b50eb6cb74e8bada9eb13f4be4563)
-- 🌐 [JavaScript](https://www.notion.so/JavaScript-327dc9775c85491884a0fe4dc74a4748?pvs=21)
+- 💡 [JavaScript](https://www.notion.so/JavaScript-327dc9775c85491884a0fe4dc74a4748?pvs=21)
 - 📊 [R](https://tahirm.notion.site/R-Programming-Language-crash-course-3be5e36b1d76446c915fcef585a7a8c9)
-- 📝  [YAML](https://tahirm.notion.site/YAML-45a7a46fe3f84403abafb8dc04af89a7?pvs=4)
+- 📝 [YAML](https://tahirm.notion.site/YAML-45a7a46fe3f84403abafb8dc04af89a7?pvs=4)
 - ⚡️ [Spark](https://www.notion.so/JavaScript-327dc9775c85491884a0fe4dc74a4748?pvs=21)
 
 # Computer Science Fundamentals
