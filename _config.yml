@@ -184,7 +184,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  engineering:
+  AInotes:
     output: true
     permalink: /:collection/:path/
 
@@ -228,10 +228,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _engineering
+  # _AInotes
   - scope:
       path: ""
-      type: engineering
+      type: AInotes
     values:
       layout: single
       author_profile: true
