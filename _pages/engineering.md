@@ -14,7 +14,7 @@ Throughout my time in a tech career, I've taken on various amount of roles in Da
 - 💡 [JavaScript](https://www.notion.so/JavaScript-327dc9775c85491884a0fe4dc74a4748?pvs=21)
 - 📊 [R](https://tahirm.notion.site/R-Programming-Language-crash-course-3be5e36b1d76446c915fcef585a7a8c9)
 - 📝 [YAML](https://tahirm.notion.site/YAML-45a7a46fe3f84403abafb8dc04af89a7?pvs=4)
-- ⚡️ [Spark](https://www.notion.so/JavaScript-327dc9775c85491884a0fe4dc74a4748?pvs=21)
+- ⚡️ [Spark](https://tahirm.notion.site/Spark-32eb04fb0db24261b7a7e7168ccf27e4?pvs=4)
 
 # Computer Science Fundamentals
 
@@ -92,8 +92,3 @@ Throughout my time in a tech career, I've taken on various amount of roles in Da
 
 - 🤖 [ML for AlgoTrading](https://www.notion.so/ML-for-AlgoTrading-c6c34a685de24c2b84d584a9818a707d?pvs=21)
 - 🤖 [ML for Trading](https://www.notion.so/8ba0f31a95334005a6d682861ef059fa?pvs=21)
-
-
-{% for post in site.engineering %}
-  {% include archive-single.html %}
-{% endfor %}
