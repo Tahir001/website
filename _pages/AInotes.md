@@ -12,7 +12,3 @@ The following page contains some of the knowledge I've gained about AI and ML th
 {% for post in site.AInotes reversed %}
   {% include archive-single.html %}
 {% endfor %} 
-
-{% for category in site.AInotes %}
-    {{ category.title }}
-{% endfor %}
