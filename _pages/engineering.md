@@ -25,7 +25,6 @@ Throughout my time in a tech career, I've taken on various amount of roles in Da
 - 🎯 [Patterns for Coding Interviews](https://www.notion.so/Patterns-for-Coding-Interviews-fdee4b717ef745ee871aab2e2ad905be?pvs=21)
 
 # Systems Design & Infrastructure Concepts 
-- 🏗️ [Systems Design Crash Course](https://www.notion.so/Systems-Design-Crash-Course-5b8dadb63077441c9666a23468218174?pvs=21)
 - 🏛️ [Fundemental Background (Computer and App Architecture)](https://www.notion.so/Systems-Design-Crash-Course-5b8dadb63077441c9666a23468218174?pvs=21)
 - 🌍 [Networking Topics](https://www.notion.so/Systems-Design-Crash-Course-5b8dadb63077441c9666a23468218174?pvs=21)
 - 🤝 [APIs - Application Programming Interface](https://www.notion.so/Systems-Design-Crash-Course-5b8dadb63077441c9666a23468218174?pvs=21)
