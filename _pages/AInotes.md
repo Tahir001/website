@@ -13,5 +13,5 @@ The following page contains some of the knowledge I've gained about AI and ML th
 {% endfor %} -->
 
 {% for category in site.AInotes %}
-  ## {{ category.title }}
+  # {{ category.title }}
 {% endfor %}
