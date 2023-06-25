@@ -7,5 +7,3 @@ location: "Toronto, Canada"
 ---
 
 # Mathematics (Linear Algebra and Calculus) Fundementals
-
-# Statistics Fundementals (Probability Distributions and Randomness)
