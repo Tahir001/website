@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Specialization by Standford"
+title: "Reinforcement Learning"
 collection: AInotes
 type: "Tutorial"
 permalink: /AInotes/MachineLearning
