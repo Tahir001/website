@@ -7,7 +7,8 @@ date: 2020-01-06
 location: "Toronto, Canada"
 ---
 
-[ ]
+[More information here](https://cs229.stanford.edu/)
+
 
 # Randomness and Probablity
 
