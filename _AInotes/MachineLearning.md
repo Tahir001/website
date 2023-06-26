@@ -13,6 +13,6 @@ This is a description of your tutorial, note the different field in type. This i
 
 ## [Supervised Learning](https://tahirm.notion.site/Course-1-Supervised-Learning-Regression-and-Classification-06cc8a78a2a04759b247048576cf7c70?pvs=4)
 
-## [Unsupervised Learning]((https://tahirm.notion.site/Course-1-Supervised-Learning-Regression-and-Classification-06cc8a78a2a04759b247048576cf7c70?pvs=4)
+## [Unsupervised Learning](https://tahirm.notion.site/Course-1-Supervised-Learning-Regression-and-Classification-06cc8a78a2a04759b247048576cf7c70?pvs=4)
 
-## Reinforcement Learning((https://tahirm.notion.site/Course-1-Supervised-Learning-Regression-and-Classification-06cc8a78a2a04759b247048576cf7c70?pvs=4))
+## Reinforcement Learning(https://tahirm.notion.site/Course-1-Supervised-Learning-Regression-and-Classification-06cc8a78a2a04759b247048576cf7c70?pvs=4)
