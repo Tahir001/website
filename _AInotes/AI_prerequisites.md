@@ -1,14 +1,13 @@
 ---
-title: "AI Prerequisites"
+title: "Essential AI Background"
 collection: AInotes
-type: "Tutorial"
-permalink: /AInotes/AIprerequisites
+type: "Talk"
+permalink: /AInotes/AIbackground
 date: 2020-01-06
 location: "Toronto, Canada"
 ---
 
 [More information here](https://cs229.stanford.edu/)
-
 
 # Randomness and Probablity
 

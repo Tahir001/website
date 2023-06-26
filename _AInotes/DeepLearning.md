@@ -1,9 +1,9 @@
 ---
-title: "Computer Vision"
+title: "Deep Learning"
 collection: AInotes
-type: "Tutorial"
-permalink: /AInotes/MachineLearning
-date: 2023-06-25
+type: "Talk"
+permalink: /AInotes/DeepLearning
+date: 2023-07-25
 location: "Toronto, Canada"
 ---
 
