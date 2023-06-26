@@ -1,9 +1,9 @@
 ---
 title: "Deep Learning"
-collection: AInotes
-type: "Talk"
+collection: talks
+type: "AInotes"
 permalink: /AInotes/DeepLearning
-date: 2023-07-25
+date: 2021-07-25
 location: "Toronto, Canada"
 ---
 

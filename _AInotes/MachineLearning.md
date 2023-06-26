@@ -3,7 +3,7 @@ title: "Machine Learning Specialization by Standford"
 collection: AInotes
 type: "Tutorial"
 permalink: /AInotes/MachineLearning
-date: 2023-06-25
+date: 2020-06-25
 location: "Toronto, Canada"
 ---
 

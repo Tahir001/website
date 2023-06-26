@@ -1,11 +1,10 @@
 ---
 title: "Natural language Processing Specialization"
 collection: talks
-type: "Talk"
-permalink: /talks/2014-02-01-talk-2
-venue: "London School of Testing"
-date: 2014-02-01
-location: "London, UK"
+type: "AInotes"
+permalink: /AInotes/NLP
+date: 2022-02-01
+location: "Toronto, Canada"
 ---
 
 [More information here](http://example2.com)
