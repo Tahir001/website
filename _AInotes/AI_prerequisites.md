@@ -7,6 +7,8 @@ date: 2020-01-06
 location: "Toronto, Canada"
 ---
 
+# 
+
 # Randomness and Probablity
 
 # Linear Algebra Basics
