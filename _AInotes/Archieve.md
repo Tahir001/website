@@ -7,4 +7,5 @@ date: 2018-01-06
 location: "Toronto, Canada"
 ---
 
-# All old notes
+
+This is where I keep an archieve of all of my old notes

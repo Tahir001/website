@@ -1,6 +1,6 @@
 ---
 title: "Natural language Processing Specialization"
-collection: talks
+collection: AInotes
 type: "AInotes"
 permalink: /AInotes/NLP
 date: 2022-02-01

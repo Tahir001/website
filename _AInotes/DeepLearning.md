@@ -1,6 +1,6 @@
 ---
-title: "Deep Learning"
-collection: talks
+title: "Deep Learning Specialization"
+collection: AInotes
 type: "AInotes"
 permalink: /AInotes/DeepLearning
 date: 2021-07-25
