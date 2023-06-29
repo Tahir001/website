@@ -12,3 +12,7 @@ Welcome to my conference notes and thoughts page! Here, I'll be sharing valuable
 # All AI Conferences & Presentations 
 - ## [AWS Generative AI Conference](https://tahirm.notion.site/AWS-AI-Conference-88c8f6a628584308bfe5136c29fa9bd1)
   Participant, *AWS Headquarters in Toronto, Canada* 2023
+
+
+- ## [ AI Conference](https://tahirm.notion.site/AWS-AI-Conference-88c8f6a628584308bfe5136c29fa9bd1)
+  Participant, *AWS Headquarters in Toronto, Canada* 2023
