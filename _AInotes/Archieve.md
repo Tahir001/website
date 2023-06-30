@@ -7,8 +7,7 @@ date: 2018-01-06
 location: "Toronto, Canada"
 ---
 
-
-This is where I keep an archieve of all of my old notes
+This is where I keep an archieve of some of my old notes.
 
 ## [Machine Learning Lecture Summaries](https://docs.google.com/document/d/1Dek-vfAUCAmxGvFRI3G3z4_uHTdww820oaMto1E1jvs/edit?usp=sharing)
 
