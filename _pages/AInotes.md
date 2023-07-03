@@ -9,6 +9,55 @@ The following page contains some of the knowledge I've gained about AI and ML th
 
 # AI Course Notes
 
+
+<div class="course">
+  <div class="course-image">
+    <img src="ML_course.jpeg" alt="Course 1 Image">
+  </div>
+  <div class="course-info">
+    <h2>Course 1: Introduction to Artificial Intelligence</h2>
+    <a href="course1_notes.md">Course 1 Notes</a>
+  </div>
+</div>
+
+<div class="course">
+  <div class="course-info">
+    <h2>Course 2: Machine Learning Fundamentals</h2>
+    <a href="course2_notes.md">Course 2 Notes</a>
+  </div>
+  <div class="course-image">
+    <img src="course2_image.jpg" alt="Course 2 Image">
+  </div>
+</div>
+
+<!-- Repeat the above pattern for the remaining courses -->
+
+<style>
+.course {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 30px;
+}
+
+.course-info {
+  flex: 1;
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+
+.course-image {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.course-image img {
+  max-width: 100%;
+  max-height: 200px;
+}
+</style>
+
 ## Course 1: Introduction to Artificial Intelligence
 
 ![Course 1 Image](course1_image.jpg)
