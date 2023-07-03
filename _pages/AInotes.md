@@ -53,8 +53,6 @@ h1 {
 }
 </style>
 
-# AI Course Notes
-
 <div class="container">
   <h1>AI Course Notes</h1>
 
@@ -78,7 +76,27 @@ h1 {
     </div>
   </div>
 
+  <div class="course">
+    <div class="course-info">
+      <h2>Course 3: Computer Vision</h2>
+      <a href="course2_notes.md">Course 2 Notes</a>
+    </div>
+    <div class="course-image">
+      <img src="../images/course_2_image.png" alt="Course 2 Image">
+    </div>
+  </div>
+
+  <div class="course">
+    <div class="course-info">
+      <h2>Course 4: Natural Language Processing</h2>
+      <a href="course2_notes.md">Course 2 Notes</a>
+    </div>
+    <div class="course-image">
+      <img src="../images/course_2_image.png" alt="Course 2 Image">
+    </div>
+  </div>
   <!-- Repeat the above pattern for the remaining courses -->
+  
 </div>
 
 
