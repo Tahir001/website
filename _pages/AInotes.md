@@ -12,21 +12,21 @@ The following page contains some of the knowledge I've gained about AI and ML th
 
 <div class="course">
   <div class="course-image">
-    <img src="ML_course.jpeg" alt="Course 1 Image">
+    <img src="/images/ML_course.jpeg" alt="Course 1 Image">
   </div>
   <div class="course-info">
     <h2>Course 1: Introduction to Artificial Intelligence</h2>
     <a href="course1_notes.md">Course 1 Notes</a>
   </div>
 </div>
-
+s
 <div class="course">
   <div class="course-info">
     <h2>Course 2: Machine Learning Fundamentals</h2>
     <a href="course2_notes.md">Course 2 Notes</a>
   </div>
   <div class="course-image">
-    <img src="course2_image.jpg" alt="Course 2 Image">
+    <img src="/images/ML_course.jpeg" alt="Course 2 Image">
   </div>
 </div>
 
