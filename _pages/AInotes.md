@@ -6,9 +6,8 @@ location: "Toronto, Canada"
 ---
 
 The following page contains some of the knowledge I've gained about AI and ML throughout my years. Hoping to grow this over the next few years, as I climb the ladder & immerse myself in more AI related work. 
----
-title: AI Course Notes
----
+
+## AI Course Notes 
 
 <style>
 body {
