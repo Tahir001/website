@@ -9,7 +9,7 @@ The following page contains some of the knowledge I've gained about AI and ML th
 
 ## AI Course Notes 
 
-<style>
+<style>i
 body {
   font-family: Arial, sans-serif;
   background-color: #f5f5f5;
@@ -60,7 +60,7 @@ h1 {
 
   <div class="course">
     <div class="course-image">
-      <img src="images/course_1_image.png" alt="Course 1 Image">
+      <img src="../images/course_1_image.png" alt="Course 1 Image">
     </div>
     <div class="course-info">
       <h2>Course 1: Introduction to Artificial Intelligence</h2>
@@ -74,7 +74,7 @@ h1 {
       <a href="course2_notes.md">Course 2 Notes</a>
     </div>
     <div class="course-image">
-      <img src="images/course_2_image.png" alt="Course 2 Image">
+      <img src="../images/course_2_image.png" alt="Course 2 Image">
     </div>
   </div>
 
