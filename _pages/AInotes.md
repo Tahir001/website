@@ -5,11 +5,11 @@ permalink: /AInotes/
 location: "Toronto, Canada"
 ---
 
-The following page contains some of the knowledge I've gained about AI and ML throughout my years. Hoping to grow this over the next few years, as I climb the ladder & immerse myself in more AI related work. 
+The following page contains some of the knowledge I've gained about AI and ML throughout my years. Hoping to grow this over the next few years, as I climb the ladder & immerse myself in more AI-related work. 
 
 ## AI Course Notes 
 
-<style>i
+<style>
 body {
   font-family: Arial, sans-serif;
   background-color: #f5f5f5;
@@ -30,7 +30,7 @@ h1 {
 
 .course {
   display: flex;
-  flex-direction: row;
+  flex-direction: row-reverse;
   margin-bottom: 30px;
 }
 
@@ -77,28 +77,26 @@ h1 {
   </div>
 
   <div class="course">
+    <div class="course-image">
+      <img src="../images/course_3_image.png" alt="Course 3 Image">
+    </div>
     <div class="course-info">
       <h2>Course 3: Computer Vision</h2>
-      <a href="course2_notes.md">Course 2 Notes</a>
-    </div>
-    <div class="course-image">
-      <img src="../images/course_2_image.png" alt="Course 2 Image">
+      <a href="course3_notes.md">Course 3 Notes</a>
     </div>
   </div>
 
   <div class="course">
     <div class="course-info">
       <h2>Course 4: Natural Language Processing</h2>
-      <a href="course2_notes.md">Course 2 Notes</a>
+      <a href="course4_notes.md">Course 4 Notes</a>
     </div>
     <div class="course-image">
-      <img src="../images/course_2_image.png" alt="Course 2 Image">
+      <img src="../images/course_4_image.png" alt="Course 4 Image">
     </div>
   </div>
   <!-- Repeat the above pattern for the remaining courses -->
-  
 </div>
-
 
 {% for post in site.AInotes reversed %}
   {% include archive-single.html %}
