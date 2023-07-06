@@ -66,7 +66,7 @@ h1 {
 
   <div class="course">
     <div class="course-info">
-      <h2>Machine Learning Specialization by Standford</h2>
+      <h2>Machine Learning Foundations </h2>
       <a href="https://tahirm.notion.site/Machine-Learning-Specialization-Offered-by-Deep-learning-AI-68e6cc23bc034453b7bdbf4d8161d048">Course 2 Notes</a>
     </div>
     <div class="course-image">
