@@ -7,8 +7,6 @@ location: "Toronto, Canada"
 
 The following page contains some of the knowledge I've gained about AI and ML throughout my years. Hoping to grow this over the next few years, as I climb the ladder & immerse myself in more AI-related work. 
 
-## AI Course Notes 
-
 <style>
 body {
   font-family: Arial, sans-serif;
@@ -58,10 +56,10 @@ h1 {
 
   <div class="course">
     <div class="course-image">
-      <img src="../images/course_1_image.png" alt="Course 1 Image">
+      <img src="../images/Mathematics_for_ML.png" alt="Course 1 Image">
     </div>
     <div class="course-info">
-      <h2>Course 1: Introduction to Artificial Intelligence</h2>
+      <h2>Course 1: Mathematical Foundations for Machine Learning and Data Science </h2>
       <a href="course1_notes.md">Course 1 Notes</a>
     </div>
   </div>
