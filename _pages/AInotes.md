@@ -60,14 +60,14 @@ h1 {
     </div>
     <div class="course-info">
       <h2>Course 1: Mathematical Foundations for Machine Learning and Data Science </h2>
-      <a href="course1_notes.md">Course 1 Notes</a>
+      <a href="https://tahirm.notion.site/Machine-Learning-Specialization-Offered-by-Deep-learning-AI-68e6cc23bc034453b7bdbf4d8161d048">Course 1 Notes</a>
     </div>
   </div>
 
   <div class="course">
     <div class="course-info">
-      <h2>Course 2: Machine Learning Fundamentals</h2>
-      <a href="course2_notes.md">Course 2 Notes</a>
+      <h2>Course 2: Machine Learning Specialization by Standford</h2>
+      <a href="https://tahirm.notion.site/Machine-Learning-Specialization-Offered-by-Deep-learning-AI-68e6cc23bc034453b7bdbf4d8161d048">Course 2 Notes</a>
     </div>
     <div class="course-image">
       <img src="../images/course_2_image.png" alt="Course 2 Image">
