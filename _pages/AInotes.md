@@ -28,21 +28,30 @@ h1 {
 
 .course {
   display: flex;
-  flex-direction: row-reverse;
   margin-bottom: 30px;
 }
 
-.course-info {
+.course-info,
+.course-image {
   flex: 1;
   padding: 20px;
   background-color: white;
-}
-
-.course-image {
-  flex: 1;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.course-info h2,
+.course-info a {
+  text-align: center;
+}
+
+.course-info h2 {
+  margin-bottom: 10px;
+}
+
+.course-info a {
+  display: block;
 }
 
 .course-image img {
@@ -52,21 +61,21 @@ h1 {
 </style>
 
 <div class="container">
-  <h1>AI Course Notes</h1>
+  <h1> </h1>
 
   <div class="course">
     <div class="course-image">
       <img src="../images/Mathematics_for_ML.png" alt="Course 1 Image">
     </div>
     <div class="course-info">
-      <h2>Mathematical Foundations for Machine Learning and Data Science </h2>
+      <h2>Mathematical Foundations for Machine Learning and Data Science</h2>
       <a href="https://tahirm.notion.site/Machine-Learning-Specialization-Offered-by-Deep-learning-AI-68e6cc23bc034453b7bdbf4d8161d048">Course 1 Notes</a>
     </div>
   </div>
 
   <div class="course">
     <div class="course-info">
-      <h2>Machine Learning Foundations </h2>
+      <h2>Machine Learning Foundations</h2>
       <a href="https://tahirm.notion.site/Machine-Learning-Specialization-Offered-by-Deep-learning-AI-68e6cc23bc034453b7bdbf4d8161d048">Course 2 Notes</a>
     </div>
     <div class="course-image">
@@ -95,6 +104,7 @@ h1 {
   </div>
   <!-- Repeat the above pattern for the remaining courses -->
 </div>
+
 
 {% for post in site.AInotes reversed %}
   {% include archive-single.html %}
