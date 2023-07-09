@@ -55,15 +55,15 @@ h1 {
 </style>
 
 <div class="container">
-  <h1>AI Course Notes</h1>
+  <h1> </h1>
 
   <div class="course">
     <div class="course-title">
-      <h2>Course 1: Introduction to Artificial Intelligence</h2>
+      <h2>Mathematical Foundations for Machine Learning and Data Science</h2>
       <a href="course1_notes.md">Course 1 Notes</a>
     </div>
     <div class="course-image">
-      <img src="../images/course_1_image.png" alt="Course 1 Image">
+      <img src="../images/Mathematics_for_ML.png" alt="Course 1 Image">
     </div>
   </div>
 
@@ -72,14 +72,14 @@ h1 {
       <img src="../images/course_2_image.png" alt="Course 2 Image">
     </div>
     <div class="course-title">
-      <h2>Course 2: Machine Learning Fundamentals</h2>
+      <h2>Machine Learning Algorithms</h2>
       <a href="course2_notes.md">Course 2 Notes</a>
     </div>
   </div>
 
   <div class="course">
     <div class="course-title">
-      <h2>Course 3: Computer Vision</h2>
+      <h2>Deep Learning Specialization</h2>
       <a href="course3_notes.md">Course 3 Notes</a>
     </div>
     <div class="course-image">
@@ -92,14 +92,14 @@ h1 {
       <img src="../images/course_4_image.png" alt="Course 4 Image">
     </div>
     <div class="course-title">
-      <h2>Course 4: Natural Language Processing</h2>
+      <h2> Machine Learning in Production (MLOPs) Specialization </h2>
       <a href="course4_notes.md">Course 4 Notes</a>
     </div>
   </div>
 
   <div class="course">
     <div class="course-title">
-      <h2>Course 5: Reinforcement Learning</h2>
+      <h2> Reinforcement Learning Specialization </h2>
       <a href="course5_notes.md">Course 5 Notes</a>
     </div>
     <div class="course-image">
@@ -112,7 +112,7 @@ h1 {
       <img src="../images/course_6_image.png" alt="Course 6 Image">
     </div>
     <div class="course-title">
-      <h2>Course 6: Deep Learning</h2>
+      <h2> Graph Neural Networks Specialization </h2>
       <a href="course6_notes.md">Course 6 Notes</a>
     </div>
   </div>
