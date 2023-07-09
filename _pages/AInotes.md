@@ -36,7 +36,6 @@ h1 {
   flex: 1;
   padding: 20px;
   background-color: white;
-  border: 1px solid #ccc;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -56,7 +55,7 @@ h1 {
 </style>
 
 <div class="container">
-  <h1></h1>
+  <h1>AI Course Notes</h1>
 
   <div class="course">
     <div class="course-title">
