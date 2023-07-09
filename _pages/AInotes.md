@@ -83,13 +83,13 @@ h1 {
       <a href="course3_notes.md">Course 3 Notes</a>
     </div>
     <div class="course-image">
-      <img src="../images/course_3_image.png" alt="Course 3 Image">
+      <img src="../images/Computer_Vision.png" alt="Course 3 Image">
     </div>
   </div>
 
   <div class="course">
     <div class="course-image">
-      <img src="../images/course_4_image.png" alt="Course 4 Image">
+      <img src="../images/Deep_Learning.png" alt="Course 4 Image">
     </div>
     <div class="course-title">
       <h2> Deep Learning Specialization </h2>
@@ -103,13 +103,13 @@ h1 {
       <a href="course5_notes.md">Course 5 Notes</a>
     </div>
     <div class="course-image">
-      <img src="../images/course_5_image.png" alt="Course 5 Image">
+      <img src="../images/NLP.png" alt="Course 5 Image">
     </div>
   </div>
 
   <div class="course">
     <div class="course-image">
-      <img src="../images/course_6_image.png" alt="Course 6 Image">
+      <img src="../images/ML_Production.png" alt="Course 6 Image">
     </div>
     <div class="course-title">
       <h2> Machine Learning in Production (MLOPs) Specialization </h2>
