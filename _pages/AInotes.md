@@ -60,7 +60,7 @@ h1 {
   <div class="course">
     <div class="course-title">
       <h2>Mathematical Foundations for Machine Learning and Data Science</h2>
-      <a href="/_AInotes/MachineLearning.md">Course 1 Notes</a>
+      <a href="/AInotes/MachineLearning.md">Course 1 Notes</a>
     </div>
     <div class="course-image">
       <img src="../images/Mathematics_for_ML.png" alt="Course 1 Image">
@@ -73,7 +73,7 @@ h1 {
     </div>
     <div class="course-title">
       <h2> Machine Learning Algorithms </h2>
-      <a href="../_AInotes/MachineLearning.md">Course 2 Notes</a>
+      <a href="/_AInotes/MachineLearning.md">Course 2 Notes</a>
     </div>
   </div>
 
