@@ -33,8 +33,3 @@ location: "Toronto, Canada"
 7. [Math for ML by Deisenroth, Faisal, and Ong](https://mml-book.github.io/book/mml-book.pdf)
 8. [Understanding Machine Learning: From Theory to Algorithms by Shalev-Shwartz and Ben-David](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 9. [Machine Learning: a Probabilistic Perspective by Murphy](https://probml.github.io/pml-book/)
-
-
-
-
-https://hastie.su.domains/Papers/ESLII.pdf
