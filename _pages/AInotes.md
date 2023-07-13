@@ -60,7 +60,7 @@ h1 {
   <div class="course">
     <div class="course-title">
       <h2>Mathematical Foundations for Machine Learning and Data Science</h2>
-      <a href="/AInotes/MachineLearning.md">Course 1 Notes</a>
+      <a href="https://github.com/tahir001/">Course 1 Notes</a>
     </div>
     <div class="course-image">
       <img src="../images/Mathematics_for_ML.png" alt="Course 1 Image">
