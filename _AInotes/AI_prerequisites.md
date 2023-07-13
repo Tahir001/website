@@ -2,7 +2,7 @@
 title: "Essential AI Background"
 collection: talks
 type: "AInotes"
-permalink: /AInotes/AIbackground
+permalink: AInotes/AIbackground
 date: 2019-01-06
 location: "Toronto, Canada"
 ---
