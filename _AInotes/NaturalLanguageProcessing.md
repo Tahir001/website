@@ -2,7 +2,7 @@
 title: "Natural language Processing Specialization"
 collection: AInotes
 type: "AInotes"
-permalink: /AInotes/NLP
+permalink: AInotes/NLP
 date: 2022-02-01
 location: "Toronto, Canada"
 ---

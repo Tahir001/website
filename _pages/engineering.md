@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Technical Handbook"
-permalink: /Engineering/
+permalink: Engineering/
 author_profile: true
 ---
 

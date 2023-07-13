@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "My Teaching Philosophy in a Nutshell"
-permalink: /teaching/
+permalink: teaching/
 location: "Toronto, Canada"
 ---
 

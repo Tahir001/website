@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "AI Notes"
-permalink: /AInotes/
+permalink: AInotes/
 location: "Toronto, Canada"
 ---
 

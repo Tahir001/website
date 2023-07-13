@@ -2,7 +2,7 @@
 title: "Deep Learning Specialization"
 collection: AInotes
 type: "AInotes"
-permalink: /AInotes/DeepLearning
+permalink: AInotes/DeepLearning
 date: 2021-07-25
 location: "Toronto, Canada"
 ---
