@@ -60,7 +60,7 @@ h1 {
   <div class="course">
     <div class="course-title">
       <h2>Mathematical Foundations for Machine Learning and Data Science</h2>
-      <a href="https://github.com/tahir001/">Course 1 Notes</a>
+      <a href="https://tahir001.github.io/website/AInotes/AIbackground">Course 1 Notes</a>
     </div>
     <div class="course-image">
       <img src="../images/Mathematics_for_ML.png" alt="Course 1 Image">
@@ -73,14 +73,14 @@ h1 {
     </div>
     <div class="course-title">
       <h2> Machine Learning Algorithms </h2>
-      <a href="/_AInotes/MachineLearning.md">Course 2 Notes</a>
+      <a href="https://tahir001.github.io/website/AInotes/MachineLearning">Course 2 Notes</a>
     </div>
   </div>
 
   <div class="course">
     <div class="course-title">
       <h2> Computer Vision </h2>
-      <a href="../_AInotes/NaturalLanguageProcessing.md">Course 3 Notes</a>
+      <a href="https://tahir001.github.io/website/AInotes/NLP">Course 3 Notes</a>
     </div>
     <div class="course-image">
       <img src="../images/Computer_Vision.png" alt="Course 3 Image">
@@ -93,14 +93,14 @@ h1 {
     </div>
     <div class="course-title">
       <h2> Deep Learning Specialization </h2>
-      <a href="../_AInotes/DeepLearning.md">Course 4 Notes</a>
+      <a href="https://tahir001.github.io/website/AInotes/DeepLearning">Course 4 Notes</a>
     </div>
   </div>
 
   <div class="course">
     <div class="course-title">
       <h2> Natural Language Processing Specialization </h2>
-      <a href="../_AInotes/NaturalLanguageProcessing.md">Course 5 Notes</a>
+      <a href="https://tahir001.github.io/website/AInotes/NLP">Course 5 Notes</a>
     </div>
     <div class="course-image">
       <img src="../images/NLP.png" alt="Course 5 Image">
