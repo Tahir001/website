@@ -14,7 +14,6 @@ location: "Toronto, Canada"
 - Projects & Code: [Here](https://github.com/Tahir001/Artificial-Intelligence/tree/main/AI%20prerequisites/Linear%20Algebra)
 - Course Notes: [Here](https://tahirm.notion.site/Linear-Algebra-Foundations-80574f51ca944c9a8b9196431ac1fbb9?pvs=4)
 
-
 ## Course 2: Single and Multi-variable Calculus 
 - Topics Covered: Neural Networks (ANNs), forward and backward propagation (Training ANNs), Activation functions, and Decision Trees, Multi-Class Classification, Xgboost
 - Projects & Code: [Here](https://github.com/Tahir001/Artificial-Intelligence/tree/main/Standford%20ML%20Specialization)
