@@ -11,7 +11,7 @@ location: "Toronto, Canada"
 
 ## Course 1: Linear Algebra Fundementals
 - Topics Covered: Classification & Regression machine learning problems, over & under fitting, gradient descent, MSE, MAE and logistic loss functions, Regularization, Polynomial Regression & Feature Maps
-- Projects & Code: [Here](https://github.com/Tahir001/Artificial-Intelligence/tree/main/Standford%20ML%20Specialization)
+- Projects & Code: [Here](https://github.com/Tahir001/Artificial-Intelligence/tree/main/AI%20prerequisites/Linear%20Algebra)
 - Course Notes: [Here](https://tahirm.notion.site/Linear-Algebra-Foundations-80574f51ca944c9a8b9196431ac1fbb9?pvs=4)
 
 ## Course 2: Single and Multi-variable Calculus 
