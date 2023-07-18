@@ -17,10 +17,12 @@ location: "Toronto, Canada"
 ## Course 2: Single and Multi-variable Calculus 
 - Topics Covered: Neural Networks (ANNs), forward and backward propagation (Training ANNs), Activation functions, and Decision Trees, Multi-Class Classification, Xgboost
 - Projects & Code: [Here](https://github.com/Tahir001/Artificial-Intelligence/tree/main/Standford%20ML%20Specialization)
+- Course Notes: [Here](https://tahirm.notion.site/Linear-Algebra-Foundations-80574f51ca944c9a8b9196431ac1fbb9?pvs=4)
 
 ## Course 3: Probability & Statistics for Data Science and Machine Learning 
 - Topics Covered: Unsupervised Learning Algorithms, Dimensionality Reduction with PCA, K-Means Clustering, Anomaly Detection, Building Recommendation Systems, Deep Reinforcement Learning Models
 - Projects & Code: [Here](https://github.com/Tahir001/Artificial-Intelligence/tree/main/Standford%20ML%20Specialization)
+- Course Notes: [Here](https://tahirm.notion.site/Linear-Algebra-Foundations-80574f51ca944c9a8b9196431ac1fbb9?pvs=4)
 
 ## Additional Resources 
 
