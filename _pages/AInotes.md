@@ -117,8 +117,3 @@ h1 {
     </div>
   </div>
 </div>
-
-
-{% for post in site.AInotes reversed %}
-  {% include archive-single.html %}
-{% endfor %} 
