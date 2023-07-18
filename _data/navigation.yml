@@ -12,8 +12,8 @@ main:
   - title: "AI Notes"
     url: /AInotes/
     
-  - title: "DS Fundamentals"
-    url: /publications/
+  # - title: "DS Fundamentals"
+  #   url: /publications/
 
   # - title: "Guide"
   #   url: /markdown/
