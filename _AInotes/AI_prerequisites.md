@@ -29,4 +29,6 @@ location: "Toronto, Canada"
 1. [Linear Algebra for Deep Learning by Ian Goodfellow and Yoshua Bengio](https://www.deeplearningbook.org/contents/linear_algebra.html)
 2. [Linear Algebra for Machine Learning by Standford University](https://cs229.stanford.edu/lectures-spring2022/cs229-linear_algebra_review.pdf)
 3. [Linear Algebra I Course Notes by Tyler Holden](https://mcs.utm.utoronto.ca/~tholden/LectureNotes223.pdf)
-4. [Probability Theory Review Notes](https://cs229.stanford.edu/lectures-spring2022/cs229-probability_review_slides.pdf)
+4. [Calculus Overview for Machine Learning by MIT](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2022/pages/lecture-notes-and-readings/)
+5. [Short Review on Calculus by ML mastery](https://machinelearningmastery.com/calculus-for-machine-learning-7-day-mini-course/)
+6. [Probability Theory Review by Standford University](https://cs229.stanford.edu/lectures-spring2022/cs229-probability_review_slides.pdf)
