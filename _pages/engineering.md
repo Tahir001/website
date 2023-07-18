@@ -19,10 +19,10 @@ Throughout my time in a tech career, I've taken on various amount of roles in Da
 # Computer Science Fundamentals
 
 - 🚀 [Software Engineering Concepts](https://tahirm.notion.site/Software-Engineering-Concepts-05d56b701b5048a99bf2d80f6b05310d?pvs=4)
-- 📚 [Data Structures](https://www.notion.so/Data-Structures-23671ba52b4b4fe387d6f43a596bd58c?pvs=21)
-- 🔍 [Algorithms](https://www.notion.so/Algorithms-043c3ce6a3d74ddabee60ccd3f72d88a?pvs=21)
+- 📚 [Data Structures](https://tahirm.notion.site/Data-Structures-23671ba52b4b4fe387d6f43a596bd58c?pvs=4)
+- 🔍 [Algorithms](https://tahirm.notion.site/Algorithms-043c3ce6a3d74ddabee60ccd3f72d88a?pvs=4)
 - 🧪 [Object Oriented Programming](https://www.notion.so/Object-Oriented-Programming-94a878065ed44c9b8a36b348a1d0ff38?pvs=21)
-- 🎯 [Patterns for Coding Interviews](https://www.notion.so/Patterns-for-Coding-Interviews-fdee4b717ef745ee871aab2e2ad905be?pvs=21)
+- 🎯 [Patterns for Coding Interviews](https://tahirm.notion.site/Patterns-for-Coding-Interviews-fdee4b717ef745ee871aab2e2ad905be)
 
 # Systems Design & Infrastructure Concepts 
 - 🏛️ [Fundemental Background (Computer and App Architecture)](https://tahirm.notion.site/Fundamental-Background-Computer-and-App-Architecture-91bb2afd715c434f87eef130f16ca91c)
