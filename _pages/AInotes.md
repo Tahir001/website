@@ -119,6 +119,6 @@ h1 {
 </div>
 
 
-  <ul>{% for post in site.AInotes %}
+  <ul>{% for post in site.AInotes.reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
