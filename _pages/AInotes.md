@@ -117,3 +117,10 @@ h1 {
     </div>
   </div>
 </div>
+
+
+{% for post in site.AInotes reversed %}
+  {% if post == "AI_Conferences" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
