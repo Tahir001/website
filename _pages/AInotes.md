@@ -120,8 +120,4 @@ h1 {
 
 ## AI Conferences
 
-Some of the AI conferences I had the pleasure to attend: Here [AI Conferences](https://tahir001.github.io/website//AInotes/AIConferences)
-
-  <ul>{% for post in site.AInotes %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Some of the AI conferences I had the pleasure to attend:[AI Conferences Notes](https://tahir001.github.io/website//AInotes/AIConferences)
