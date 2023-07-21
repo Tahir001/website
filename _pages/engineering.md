@@ -50,7 +50,7 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - 🗄️ [Postgres and Postman](https://www.notion.so/Docker-1-8b83f6f6a2b243cf826d5db2dc1f13f4?pvs=21)
 - 🐧 [Linux/Unix, and Terminal](https://www.notion.so/Docker-1-8b83f6f6a2b243cf826d5db2dc1f13f4?pvs=21)
 - 🐙 [Git and Github](https://tahirm.notion.site/Git-and-Github-f82d3e3433974110970f423d131fa59d?pvs=4)
-- 🚀 [CI/CD Fundamentals]
+- 🚀 [CI/CD Fundamentals] ()
 - 🌐 [Environment Variables](https://www.notion.so/Docker-1-8b83f6f6a2b243cf826d5db2dc1f13f4?pvs=21)
 - 🌐 [Web Development Primer)](https://www.notion.so/Web-Development-Primer-8d308492765e404aae87d29179b1baaa?pvs=21)
 - 🐳 [Docker](https://www.notion.so/Docker-8c58b6cecaa64d82a361b28dc4974809?pvs=21)
@@ -59,13 +59,21 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 # Data Science Tools
 
 - 🐘 [Big Data (Hadoop, Hive and HDFS)](https://www.notion.so/Big-Data-Hadoop-HDFS-Spark-Scala-3e860bedb09e46d4abad030642e6259f?pvs=21)
-- 📊 [Tableau](https://www.notion.so/Tableau-508337e681d5411082982f9929380304?pvs=21)
+- 📚 📊 [Tableau](https://www.notion.so/Tableau-508337e681d5411082982f9929380304?pvs=21)
+- [AWS S3]
+- 📚 [PrestoSQL / Trino]
+- Azure Databricks 
 
 # Big Data Engineering Tools
 - [Big Data - Comprehensive Technology Tools](https://tahirm.notion.site/Big-Data-Hadoop-HDFS-Spark-Scala-3e860bedb09e46d4abad030642e6259f)
 - 📚 [Data Engineer Introduction](https://tahirm.notion.site/Data-Engineer-Introduction-8c3f204c80984e7f870dce2125b45bfc?pvs=4)
-- 📚 [Airflow]
-
+- 📚 [Spark](www.github.com)
+- 📚 [Apache Pulsar]
+- 📚 [Apache Airflow]
+- 📚 [Apache Flink]
+- 📚 [AWS Kinesis]
+- 📚 [Elastic Search]
+- 📚 [ ]
 # Mathematics & Statistics
 
 - 🔢 [Linear Algebra Foundations](https://www.notion.so/Linear-Algebra-Foundations-80574f51ca944c9a8b9196431ac1fbb9?pvs=21)
