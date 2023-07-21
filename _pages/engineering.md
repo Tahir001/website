@@ -53,27 +53,28 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - 🚀 [CI/CD Fundamentals] ()
 - 🌐 [Environment Variables](https://www.notion.so/Docker-1-8b83f6f6a2b243cf826d5db2dc1f13f4?pvs=21)
 - 🌐 [Web Development Primer)](https://www.notion.so/Web-Development-Primer-8d308492765e404aae87d29179b1baaa?pvs=21)
-- 🐳 [Docker](https://www.notion.so/Docker-8c58b6cecaa64d82a361b28dc4974809?pvs=21)
 - ☁️  [Cloud Computing](https://www.notion.so/Cloud-Computing-116505e760a24ba3b8373dd7c023c331?pvs=21)
+- 🌐 [Terraform](https://www.notion.so/Cloud-Computing-116505e760a24ba3b8373dd7c023c331?pvs=21)
 
 # Data Science Tools
 
 - 🐘 [Big Data (Hadoop, Hive and HDFS)](https://www.notion.so/Big-Data-Hadoop-HDFS-Spark-Scala-3e860bedb09e46d4abad030642e6259f?pvs=21)
 - 📚 📊 [Tableau](https://www.notion.so/Tableau-508337e681d5411082982f9929380304?pvs=21)
-- [AWS S3]
-- 📚 [PrestoSQL / Trino]
-- Azure Databricks 
+- ☁️ [AWS S3](https://www.example.com/aws-s3)
+- 📚 [PrestoSQL / Trino](https://www.example.com/presto-sql)
+- 🌐 [Azure Databricks](https://www.example.com/azure-databricks)
 
 # Big Data Engineering Tools
+
 - [Big Data - Comprehensive Technology Tools](https://tahirm.notion.site/Big-Data-Hadoop-HDFS-Spark-Scala-3e860bedb09e46d4abad030642e6259f)
 - 📚 [Data Engineer Introduction](https://tahirm.notion.site/Data-Engineer-Introduction-8c3f204c80984e7f870dce2125b45bfc?pvs=4)
-- 📚 [Spark](www.github.com)
-- 📚 [Apache Pulsar]
-- 📚 [Apache Airflow]
-- 📚 [Apache Flink]
-- 📚 [AWS Kinesis]
-- 📚 [Elastic Search]
-- 📚 [ ]
+- 🚀 [Spark](www.github.com)
+- 🌀 [Apache Pulsar](https://www.example.com/apache-pulsar)
+- 🌬️ [Apache Airflow](https://www.example.com/apache-airflow)
+- 🔥 [Apache Flink](https://www.example.com/apache-flink)
+- 🌊 [AWS Kinesis](https://www.example.com/aws-kinesis)
+- 🏔️ [Elastic Search](https://www.example.com/elastic-search)
+
 # Mathematics & Statistics
 
 - 🔢 [Linear Algebra Foundations](https://www.notion.so/Linear-Algebra-Foundations-80574f51ca944c9a8b9196431ac1fbb9?pvs=21)
