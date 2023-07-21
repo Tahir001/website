@@ -83,6 +83,11 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - ☁️ [Azure Fundamentals](https://www.example.com/azure-fundamentals)
 - ☁️ [GCP Fundamentals](https://www.example.com/gcp-fundamentals)
 
+<!-- Set different colors for each cloud emoji using HTML and inline styles -->
+- <span style="color: blue;">☁️</span> [AWS Fundamentals](https://www.example.com/aws-fundamentals)
+- <span style="color: green;">☁️</span> [Azure Fundamentals](https://www.example.com/azure-fundamentals)
+- <span style="color: orange;">☁️</span> [GCP Fundamentals](https://www.example.com/gcp-fundamentals)
+
 
 # Product Sense / Case Study Topics
 
