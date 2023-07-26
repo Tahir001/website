@@ -10,7 +10,7 @@ location: "Toronto, Canada"
 [More information here](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science?utm_campaign=websitecourses-m4ml-topbutton&utm_medium=institutions&utm_source=deeplearning-ai)
 
 ## Course 1: Linear Algebra Fundementals
-- Topics Covered: Vectors, Matrices, Systems of Equations, Vector Norms, Determinants, Rank of a Matrix, Inverse Matrices, Matrix Multiplication, Linear independence, spans, basis sets, Eigen values and Eigen Vectors
+- Topics Covered: Vectors, Matrices, Systems of Equations, Vector Norms, Determinants, Rank of a Matrix, Inverse Matrices, Matrix Multiplication, Row-Reduction Linear independence, spans, basis sets, Eigen values and Eigen Vectors
 - Projects & Code: [Here](https://github.com/Tahir001/Artificial-Intelligence/tree/main/AI%20prerequisites/Linear%20Algebra)
 - Course Notes: [Here](https://tahirm.notion.site/Linear-Algebra-Foundations-80574f51ca944c9a8b9196431ac1fbb9?pvs=4)
 
