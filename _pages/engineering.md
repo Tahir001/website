@@ -71,7 +71,7 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - 🚀 [Spark](www.github.com)
 - 🌀 [Apache Pulsar](https://www.example.com/apache-pulsar)
 - 🌬️ [Apache Airflow](https://www.example.com/apache-airflow)
-- 🔥 [Apache Flink](https://www.example.com/apache-flink)
+- 🔥 [Apache Flink](https://www.notion.so/tahirm/Apache-Flink-e4237be7c88047159bf0869fe4271d89)
 - 🌊 [AWS Kinesis](https://www.example.com/aws-kinesis)
 - 🏔️ [Elastic Search](https://www.example.com/elastic-search)
 
