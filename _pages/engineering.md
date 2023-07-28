@@ -65,7 +65,7 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - 🌐 [Azure Databricks](https://www.example.com/azure-databricks)
 - 📈 [Time Series Basics](https://tahirm.notion.site/Time-Series-Analysis-344701dc8c7b4c2288e54144dc9727d1)
 - ⌛ [A/B Testing](https://tahirm.notion.site/A-B-Testing-Correct_Link_Here)
-- [Alteryx](www.example.com)
+- ⌛ [Alteryx Software](https://tahirm.notion.site/Alteryx-Software-89771945449648edb7676c14f3912043)
 
 # Big Data Engineering Tools
 
