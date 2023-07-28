@@ -59,10 +59,12 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 # Data Science Tools
 
 - 🐘 [Big Data (Hadoop, Hive and HDFS)](https://www.notion.so/Big-Data-Hadoop-HDFS-Spark-Scala-3e860bedb09e46d4abad030642e6259f?pvs=21)
-- 📚 📊 [Tableau](https://www.notion.so/Tableau-508337e681d5411082982f9929380304?pvs=21)
+- 📊 [Tableau](https://www.notion.so/Tableau-508337e681d5411082982f9929380304?pvs=21)
 - ☁️ [AWS S3](https://www.example.com/aws-s3)
 - 📚 [PrestoSQL / Trino](https://www.example.com/presto-sql)
 - 🌐 [Azure Databricks](https://www.example.com/azure-databricks)
+- [Time Series Basics](https://tahirm.notion.site/Time-Series-Analysis-344701dc8c7b4c2288e54144dc9727d1)
+- [A/B Testing](https://tahirm.notion.site/Time-Series-Analysis-344701dc8c7b4c2288e54144dc9727d1)
 
 # Big Data Engineering Tools
 
