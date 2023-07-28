@@ -64,8 +64,8 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - 📚 [PrestoSQL / Trino](https://www.example.com/presto-sql)
 - 🌐 [Azure Databricks](https://www.example.com/azure-databricks)
 - 📈 [Time Series Basics](https://tahirm.notion.site/Time-Series-Analysis-344701dc8c7b4c2288e54144dc9727d1)
-- ⌛ [A/B Testing](https://tahirm.notion.site/A-B-Testing-Correct_Link_Here)
-- ⌛ [Alteryx Software](https://tahirm.notion.site/Alteryx-Software-89771945449648edb7676c14f3912043)
+- 🧪 [A/B Testing](https://tahirm.notion.site/A-B-Testing-Correct_Link_Here)
+- 🔧 [Alteryx Software](https://tahirm.notion.site/Alteryx-Software-89771945449648edb7676c14f3912043)
 
 # Big Data Engineering Tools
 
@@ -97,7 +97,7 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 
 # Product Sense / Case Study Topics
 
-- 📊 [A/B Testing - Taught by Google Engineers](https://www.notion.so/A-B-Testing-Taught-by-Google-Engineers-2ca96aa2a84a4326a270ccedd621aba2?pvs=21)
+- 🧪 [A/B Testing - Taught by Google Engineers](https://www.notion.so/A-B-Testing-Taught-by-Google-Engineers-2ca96aa2a84a4326a270ccedd621aba2?pvs=21)
 - 💼 [Wealth Management](https://www.notion.so/Wealth-Management-326e957f176c4fd3b5025558351bddcc?pvs=21)
 - 📈 [Algorithmic Trading](https://www.notion.so/Algorithmic-Trading-344701dc8c7b4c2288e54144dc9727d1?pvs=21)
 
