@@ -63,8 +63,9 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - ☁️ [AWS S3](https://www.example.com/aws-s3)
 - 📚 [PrestoSQL / Trino](https://www.example.com/presto-sql)
 - 🌐 [Azure Databricks](https://www.example.com/azure-databricks)
-- [Time Series Basics](https://tahirm.notion.site/Time-Series-Analysis-344701dc8c7b4c2288e54144dc9727d1)
-- [A/B Testing](https://tahirm.notion.site/Time-Series-Analysis-344701dc8c7b4c2288e54144dc9727d1)
+- 📈 [Time Series Basics](https://tahirm.notion.site/Time-Series-Analysis-344701dc8c7b4c2288e54144dc9727d1)
+- ⌛ [A/B Testing](https://tahirm.notion.site/A-B-Testing-Correct_Link_Here)
+- [Alteryx](www.example.com)
 
 # Big Data Engineering Tools
 
