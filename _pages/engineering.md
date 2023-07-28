@@ -92,11 +92,6 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - ☁️ [Azure Fundamentals](https://www.example.com/azure-fundamentals)
 - ☁️ [GCP Fundamentals](https://www.example.com/gcp-fundamentals)
 
-- <span style="color: blue;">&#9729;</span> [AWS Fundamentals](https://www.example.com/aws-fundamentals)
-- <span style="color: green;">&#9729;</span> [Azure Fundamentals](https://www.example.com/azure-fundamentals)
-- <span style="color: orange;">&#9729;</span> [GCP Fundamentals](https://www.example.com/gcp-fundamentals)
-
-
 # Product Sense / Case Study Topics
 
 - 📊 [A/B Testing - Taught by Google Engineers](https://www.notion.so/A-B-Testing-Taught-by-Google-Engineers-2ca96aa2a84a4326a270ccedd621aba2?pvs=21)
