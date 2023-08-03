@@ -50,7 +50,7 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - 🗄️ [Postgres and Postman](https://www.notion.so/Docker-1-8b83f6f6a2b243cf826d5db2dc1f13f4?pvs=21)
 - 🐧 [Linux/Unix, and Terminal](https://www.notion.so/Docker-1-8b83f6f6a2b243cf826d5db2dc1f13f4?pvs=21)
 - 🐙 [Git and Github](https://tahirm.notion.site/Git-and-Github-f82d3e3433974110970f423d131fa59d?pvs=4)
-- 🚀 [CI/CD Fundamentals] ()
+- 🚀 [CI/CD Fundamentals](https://tahirm.notion.site/CI-CD-Fundementals-13fa2d8c07ef4d039d652d429cfcabb0)
 - 🌐 [Environment Variables](https://www.notion.so/Docker-1-8b83f6f6a2b243cf826d5db2dc1f13f4?pvs=21)
 - 🌐 [Web Development Primer)](https://www.notion.so/Web-Development-Primer-8d308492765e404aae87d29179b1baaa?pvs=21)
 - ☁️  [Microservices, VMs & Cloud Migration](https://tahirm.notion.site/Cloud-Computing-116505e760a24ba3b8373dd7c023c331)
