@@ -7,8 +7,8 @@ author_profile: true
 
 Throughout my time in a tech career, I've taken on various amount of roles in Data (Scientist, Analyst, Engineer) and in Software Engineering (Fullstack, Backend, Data Platforms, Machine Learning), which has made me realize the importance of continuous learning. Since my undergraduate studies, I've been actively acquiring new programming skills, frameworks, and tech stacks to contribute effectively to any project. Although it can be challenging, my unwavering commitment to learning and overcoming obstacles has consistently impressed others. To promote the idea of lifelong learning, I've created this page to share the notes I've gathered while exploring various technologies. I hope these notes prove valuable to your own learning and remind you that we are all constantly learning. No one has comprehensive knowledge of everything, and seeking assistance is beneficial for everyone. Embracing lifelong learning, collaboration, and support are crucial for personal and professional growth.
 
-__Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, PySpark, Airflow, Flink, AWS Kinesis, Elastic Search, PrestoSQL / Trino, Gitlab CI/CD, Terraform, Python (Scripting & ML - Pandas, Numpy, Pytorch, Tensorflow) and Scala
-   
+__Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, PySpark, Airflow, Flink, AWS Kinesis, Elastic Search, PrestoSQL / Trino, Gitlab CI/CD, Terraform, Python (Scripting, Analysis, & ML - Pandas, Numpy, Pytorch, Tensorflow)
+
 # Programming Languages
 
 - ⭐ [Python](https://tahirm.notion.site/Python-23512f9e5aca4fe99b505f8aec3d61b3)
