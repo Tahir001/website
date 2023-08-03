@@ -53,7 +53,7 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - 🚀 [CI/CD Fundamentals] ()
 - 🌐 [Environment Variables](https://www.notion.so/Docker-1-8b83f6f6a2b243cf826d5db2dc1f13f4?pvs=21)
 - 🌐 [Web Development Primer)](https://www.notion.so/Web-Development-Primer-8d308492765e404aae87d29179b1baaa?pvs=21)
-- ☁️  [Microservices, VMs & Cloud Migration](https://www.notion.so/Cloud-Computing-116505e760a24ba3b8373dd7c023c331?pvs=21)
+- ☁️  [Microservices, VMs & Cloud Migration](https://tahirm.notion.site/Cloud-Computing-116505e760a24ba3b8373dd7c023c331)
 - 🌐 [Terraform](https://www.notion.so/Cloud-Computing-116505e760a24ba3b8373dd7c023c331?pvs=21)
 
 # Data Science Tools
