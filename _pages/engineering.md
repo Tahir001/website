@@ -28,7 +28,7 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 
 # Systems Design & Infrastructure Concepts 
 - 🏛️ [Fundemental Background (Computer and App Architecture)](https://tahirm.notion.site/Fundamental-Background-Computer-and-App-Architecture-91bb2afd715c434f87eef130f16ca91c)
-- 🌍 [Networking Topics](https://www.notion.so/Systems-Design-Crash-Course-5b8dadb63077441c9666a23468218174?pvs=21)
+- 🌍 [Networking Topics](https://tahirm.notion.site/Networking-Topics-6013a72af90b41389d230b2c0df51032?pvs=4)
 - 🤝 [APIs - Application Programming Interface](https://www.notion.so/Systems-Design-Crash-Course-5b8dadb63077441c9666a23468218174?pvs=21)
 - 🔄 [Caching Basics](https://www.notion.so/Systems-Design-Crash-Course-5b8dadb63077441c9666a23468218174?pvs=21)
 - ⚖️ [Load Balancers & Hashing](https://www.notion.so/Systems-Design-Crash-Course-5b8dadb63077441c9666a23468218174?pvs=21)
@@ -46,7 +46,7 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 
 # Full Stack Software Engineering
 
-- 🐳 [Docker](https://www.notion.so/Docker-1-8b83f6f6a2b243cf826d5db2dc1f13f4?pvs=21)
+- 🐳 [Docker](https://tahirm.notion.site/Docker-8b83f6f6a2b243cf826d5db2dc1f13f4?pvs=4)
 - 🗄️ [Postgres and Postman](https://www.notion.so/Docker-1-8b83f6f6a2b243cf826d5db2dc1f13f4?pvs=21)
 - 🐧 [Linux/Unix, and Terminal](https://www.notion.so/Docker-1-8b83f6f6a2b243cf826d5db2dc1f13f4?pvs=21)
 - 🐙 [Git and Github](https://tahirm.notion.site/Git-and-Github-f82d3e3433974110970f423d131fa59d?pvs=4)
