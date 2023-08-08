@@ -103,5 +103,5 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 
 # Machine Learning
 
-- 🤖 [ML for AlgoTrading](https://www.notion.so/ML-for-AlgoTrading-c6c34a685de24c2b84d584a9818a707d?pvs=21)
+- 🧠 [ML for AlgoTrading](https://www.notion.so/ML-for-AlgoTrading-c6c34a685de24c2b84d584a9818a707d?pvs=21)
 - 🤖 [ML for Trading](https://www.notion.so/8ba0f31a95334005a6d682861ef059fa?pvs=21)
