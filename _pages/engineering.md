@@ -5,9 +5,9 @@ permalink: Engineering/
 author_profile: true
 ---
 
-"In my tech journey, I've held diverse roles in both Data (Scientist, Analyst, Engineer) and Software Engineering (Fullstack, Backend, Data Platforms, Machine Learning). Such a varied background has ingrained in me the value of perpetual learning. From my undergraduate years to the present, I’ve ceaselessly honed my programming skills, tools, and frameworks, striving to excel in every endeavor. While the path isn't always straightforward, my unwavering dedication and transparency about continuous learning in tech deeply resonate with peers, aspiring engineers, and scientists.
+In my tech journey, I've held diverse roles in both Data (Scientist, Analyst, Engineer) and Software Engineering (Fullstack, Backend, Data Platforms, Machine Learning). Such a varied background has ingrained in me the value of perpetual learning. From my undergraduate years to the present, I’ve ceaselessly honed my programming skills, tools, and frameworks, striving to excel in every endeavor. While the path isn't always straightforward, my unwavering dedication and transparency about continuous learning in tech deeply resonate with peers, aspiring engineers, and scientists.
 
-I established this page to champion the spirit of lifelong learning, sharing insights I've gleaned from exploring diverse technologies. I hope these notes will aid your own learning journey. Always remember: no one has all the answers. Embracing help and collaboration is not just beneficial but vital for both personal and professional growth."
+I established this page to champion the spirit of lifelong learning, sharing insights I've gleaned from exploring diverse technologies. I hope these notes will aid your own learning journey. Always remember: no one has all the answers. Embracing help and collaboration is not just beneficial but vital for both personal and professional growth.
 
 __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, PySpark, Airflow, Flink, AWS Kinesis, Elastic Search, PrestoSQL / Trino, Gitlab CI/CD, Terraform, Python (Scripting, Analysis, & ML - Pandas, Numpy, Pytorch, Tensorflow)
 
