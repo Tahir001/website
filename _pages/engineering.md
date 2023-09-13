@@ -82,7 +82,7 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 
 # Mathematics & Statistics
 
-- 🔢 [Linear Algebra Foundations](https://www.notion.so/Linear-Algebra-Foundations-80574f51ca944c9a8b9196431ac1fbb9?pvs=21)
+- 🔢 [Linear Algebra Foundations](https://tahirm.notion.site/Linear-Algebra-Foundations-80574f51ca944c9a8b9196431ac1fbb9?pvs=4)
 - ➗ [Calculus](https://tahirm.notion.site/Calculus-b1aa6236b1014b2496a2462a7982d7c3)
 - 🎲 [Probability Introduction](https://tahirm.notion.site/Calculus-b1aa6236b1014b2496a2462a7982d7c3)
 - 📈 [Random Variables](https://tahirm.notion.site/Calculus-b1aa6236b1014b2496a2462a7982d7c3)
