@@ -89,7 +89,7 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - 📊 [Inference](https://tahirm.notion.site/Calculus-b1aa6236b1014b2496a2462a7982d7c3)
 - 📉 [Hypothesis Testing & Confidence Intervals](https://tahirm.notion.site/Calculus-b1aa6236b1014b2496a2462a7982d7c3)
 - 📚 [Causal Inference Models](https://www.notion.so/Probability-ec9e11463ec2447b98506a3267f13fab?pvs=21)
-- 📊 [Entropy and Extropy for Type II censored data](https://www.notion.so/Probability-ec9e11463ec2447b98506a3267f13fab?pvs=21)
+- 📊 [Entropy and Extropy for Type II censored data](https://tahirm.notion.site/Calculus-b1aa6236b1014b2496a2462a7982d7c3)
 
 # Cloud Computing
 
