@@ -20,7 +20,7 @@ location: "Toronto, Canada"
 - Course Notes: [Here](https://tahirm.notion.site/Calculus-b1aa6236b1014b2496a2462a7982d7c3?pvs=4)
 
 ## Course 3: Probability & Statistics for Data Science and Machine Learning 
-- Topics Covered: Unsupervised Learning Algorithms, Dimensionality Reduction with PCA, K-Means Clustering, Anomaly Detection, Building Recommendation Systems, Deep Reinforcement Learning Models
+- Topics Covered: Probability, Discrete & Continous distributions, Bayesian Statistics, Multivariate Distributions, Sampling & Point Estimation, Confidence Intervals, Hypothesis Testing, A/B Testing
 - Projects & Code: [Here](https://github.com/Tahir001/Artificial-Intelligence/tree/main/Standford%20ML%20Specialization)
 - Course Notes: [Here](https://tahirm.notion.site/Linear-Algebra-Foundations-80574f51ca944c9a8b9196431ac1fbb9?pvs=4)
 
