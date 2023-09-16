@@ -32,7 +32,7 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - 🏛️ [Fundemental Background (Computer and App Architecture)](https://tahirm.notion.site/Fundamental-Background-Computer-and-App-Architecture-91bb2afd715c434f87eef130f16ca91c)
 - 🌍 [Networking Topics](https://tahirm.notion.site/Networking-Topics-6013a72af90b41389d230b2c0df51032?pvs=4)
 - 🤝 [APIs - Application Programming Interface](https://tahirm.notion.site/APIs-Application-Programming-Interface-4f6ad8942a5f4343a6decf904f2a0d93?pvs=4)
-- 🔄 [Caching Basics](https://www.notion.so/Systems-Design-Crash-Course-5b8dadb63077441c9666a23468218174?pvs=21)
+- 🔄 [Caching Basics](https://tahirm.notion.site/Caching-Basics-84539429773243c68f1d3d2ce88d97d9)
 - ⚖️ [Load Balancers & Hashing](https://www.notion.so/Systems-Design-Crash-Course-5b8dadb63077441c9666a23468218174?pvs=21)
 - 🗄️ [Storage](https://www.notion.so/Systems-Design-Crash-Course-5b8dadb63077441c9666a23468218174?pvs=21)
 - 🗃️ [Big Data - Mapreduce & Message Queues](https://www.notion.so/Systems-Design-Crash-Course-5b8dadb63077441c9666a23468218174?pvs=21)
