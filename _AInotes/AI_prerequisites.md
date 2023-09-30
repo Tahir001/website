@@ -32,3 +32,4 @@ location: "Toronto, Canada"
 4. [Calculus Overview for Machine Learning by MIT](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2022/pages/lecture-notes-and-readings/)
 5. [Short Review on Calculus by ML mastery](https://machinelearningmastery.com/calculus-for-machine-learning-7-day-mini-course/)
 6. [Probability Theory Review by Standford University](https://cs229.stanford.edu/lectures-spring2022/cs229-probability_review_slides.pdf)
+7. [Probability Overview Notes by Standford University](https://cs229.stanford.edu/notes2022fall/cs229-probability_review.pdf)
