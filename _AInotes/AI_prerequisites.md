@@ -21,7 +21,7 @@ location: "Toronto, Canada"
 
 ## Course 3: Probability & Statistics for Data Science and Machine Learning 
 - Topics Covered: Probability, Discrete & Continous distributions, Bayesian Statistics, Multivariate Distributions, Sampling & Point Estimation, Confidence Intervals, Hypothesis Testing, A/B Testing
-- Projects & Code: [Here](https://github.com/Tahir001/Artificial-Intelligence/tree/main/Standford%20ML%20Specialization)
+- Projects & Code: [Here](https://github.com/Tahir001/Artificial-Intelligence/tree/main/AI%20prerequisites/Probability%20and%20Statistics)
 - Course Notes: [Here](https://tahirm.notion.site/Probability-ec9e11463ec2447b98506a3267f13fab)
 
 ## Additional Resources 
