@@ -84,10 +84,10 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 
 - 🔢 [Linear Algebra Foundations](https://tahirm.notion.site/Linear-Algebra-Foundations-80574f51ca944c9a8b9196431ac1fbb9?pvs=4)
 - ➗ [Calculus](https://tahirm.notion.site/Calculus-b1aa6236b1014b2496a2462a7982d7c3)
-- 🎲 [Probability Introduction](https://tahirm.notion.site/Calculus-b1aa6236b1014b2496a2462a7982d7c3)
-- 📈 [Random Variables](https://tahirm.notion.site/Calculus-b1aa6236b1014b2496a2462a7982d7c3)
-- 📊 [Inference](https://tahirm.notion.site/Calculus-b1aa6236b1014b2496a2462a7982d7c3)
-- 📉 [Hypothesis Testing & Confidence Intervals](https://tahirm.notion.site/Calculus-b1aa6236b1014b2496a2462a7982d7c3)
+- 🎲 [Probability Introduction](https://tahirm.notion.site/Probability-ec9e11463ec2447b98506a3267f13fab)
+- 📈 [Random Variables](https://tahirm.notion.site/Probability-ec9e11463ec2447b98506a3267f13fab)
+- 📊 [Inference](https://tahirm.notion.site/Inference-Estimation-Confidence-Intervals-and-Hypothesis-Testing-b6393a2330db423ca150bcb3eb7786c9)
+- 📉 [Hypothesis Testing & Confidence Intervals](https://tahirm.notion.site/Inference-Estimation-Confidence-Intervals-and-Hypothesis-Testing-b6393a2330db423ca150bcb3eb7786c9)
 - 📚 [Causal Inference Models](https://www.notion.so/Probability-ec9e11463ec2447b98506a3267f13fab?pvs=21)
 - 📊 [Entropy and Extropy for Type II censored data](https://tahirm.notion.site/Calculus-b1aa6236b1014b2496a2462a7982d7c3)
 
