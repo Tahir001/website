@@ -17,12 +17,12 @@ location: "Toronto, Canada"
 ## Course 2: Advanced Learning Algorithms
 - Topics Covered: Neural Networks (ANNs), forward and backward propagation (Training ANNs), Activation functions, and Decision Trees, Multi-Class Classification, Xgboost
 - Projects & Code: [Here](https://github.com/Tahir001/Artificial-Intelligence/tree/main/Standford%20ML%20Specialization)
-- Course Notes: [Here](https://drive.google.com/file/d/1ibTN46_3dbL86MWC1WUl6UbLyJznP30G/view?usp=drive_link)
+- Course Notes: [Here](https://drive.google.com/file/d/1N5iMOCOl6oWwimpF99TAZdG-hA10Ciot/view?usp=drive_link)
 
 ## Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning
 - Topics Covered: Unsupervised Learning Algorithms, Dimensionality Reduction with PCA, K-Means Clustering, Anomaly Detection, Building Recommendation Systems, Deep Reinforcement Learning Models
 - Projects & Code: [Here](https://github.com/Tahir001/Artificial-Intelligence/tree/main/Standford%20ML%20Specialization)
-- Course Notes: [Here](https://drive.google.com/file/d/1jmm71nDJRIz3Srq2yjnVUlgcQAoYYnaM/view?usp=drive_link)
+- Course Notes: [Here](https://drive.google.com/file/d/16iHS716luoDhkONfEv2A1WF34kKVFdGC/view?usp=sharing)
 
 ## Additional Resources 
 
