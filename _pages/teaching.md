@@ -9,28 +9,26 @@ I strongly believe in the ability of the human brain to learn and grasp anything
 
 # Teaching Experience (University of Toronto)
 - ## [CSC411 - Machine Learning](http://www.cs.toronto.edu/~rahulgk/courses/csc311_f22/index.html)
-  Teaching Assistant, *University of Toronto, Department of Mathematical and Computational Sciences,* 2022
-
-- ## [STA302/STA2002 - Multivariate Regression Analysis](https://utm.calendar.utoronto.ca/course/sta302h5)
-  Teaching Assistant, *University of Toronto, Department of Mathematical and Computational Sciences,* 2022
+  Teaching Assistant, *University of Toronto, Department of Mathematical and Computational Sciences,* 2021
 
 - ## [STA238 - Data Analysis II](https://artsci.calendar.utoronto.ca/course/sta238h1)
-  Teaching Assistant, *University of Toronto, Department of Mathematical and Computational Sciences,* 2022
-
-- ## [MAT223 - Linear Algebra I](http://www.math.toronto.edu/nhoell/MAT223/)
-  Facilitated Study Groups (FSGs) Leader, *University of Toronto, Department of Mathematical and Computational Sciences,* 2022
+  Teaching Assistant, *University of Toronto, Department of Mathematical and Computational Sciences,* 2021
 
 - ## [STA218 - Statistics for Management](https://mcs.utm.utoronto.ca/~nosedal/218.html)
-  Teaching Assistant, *University of Toronto, Department of Mathematical and Computational Sciences,* 2021
+  Head Teaching Assistant, *University of Toronto, Department of Mathematical and Computational Sciences,* 2021
 
 - ## [STA130 - Introduction to Data Science](https://artsci.calendar.utoronto.ca/course/sta130h1)
-  Teaching Assistant, *University of Toronto, Department of Mathematical and Computational Sciences,* 2021
-
-- ## [CSC108 - Introduction to Programming](https://cssc.utm.utoronto.ca/resources/csc108)
-  Teaching Assistant, *University of Toronto, Department of Mathematical and Computational Sciences,* 2021
+  Teaching Assistant, *University of Toronto, Department of Mathematical and Computational Sciences,* 2020
 
  - ## [STA107 - Probability and Reasoning](https://utm.calendar.utoronto.ca/course/sta107h5)
-  Teaching Assistant, *University of Toronto, Department of Mathematical and Computational Sciences*, 2021
+  Teaching Assistant, *University of Toronto, Department of Mathematical and Computational Sciences*, 2020
+
+- ## [MAT223 - Linear Algebra I](http://www.math.toronto.edu/nhoell/MAT223/)
+  FSGs Leader, *University of Toronto, Department of Mathematical and Computational Sciences,* 2020
+
+- ## [CSC108 - Introduction to Programming](https://cssc.utm.utoronto.ca/resources/csc108)
+  FSG Leader, *University of Toronto, Department of Mathematical and Computational Sciences,* 2020
+
 
 
 Please visit the links for more information on the relevant courses.
