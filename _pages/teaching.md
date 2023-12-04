@@ -18,7 +18,7 @@ I strongly believe in the ability of the human brain to learn and grasp anything
   Teaching Assistant, *University of Toronto, Department of Mathematical and Computational Sciences,* 2022
 
 - ## [MAT223 - Linear Algebra I](http://www.math.toronto.edu/nhoell/MAT223/)
-  Teaching Assistant, *University of Toronto, Department of Mathematical and Computational Sciences,* 2022
+  Facilitated Study Groups (FSGs) Leader, *University of Toronto, Department of Mathematical and Computational Sciences,* 2022
 
 - ## [STA218 - Statistics for Management](https://mcs.utm.utoronto.ca/~nosedal/218.html)
   Teaching Assistant, *University of Toronto, Department of Mathematical and Computational Sciences,* 2021
