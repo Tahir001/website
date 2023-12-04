@@ -2,21 +2,18 @@
 main:
   - title: "Teaching"
     url: /teaching/  
-
-  # - title: "Portfolio"
-  #   url: /portfolio/ 
     
   - title: "Engineering"
     url: /Engineering/    
 
   - title: "AI Notes"
     url: /AInotes/
-    
-  # - title: "DS Fundamentals"
-  #   url: /publications/
 
   - title: "Portfolio"
-   url: /portfolio/
+    url: /portfolio/ 
+
+  # - title: "DS Fundamentals"
+  #   url: /publications/
 
   - title: "CV"
    url: /CV/
