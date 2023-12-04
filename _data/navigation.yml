@@ -1,19 +1,20 @@
 # main links links
 main:
   - title: "Teaching"
-    url: /teaching/  
+    url: /teaching/
     
   - title: "Engineering"
-    url: /Engineering/    
-
+    url: /Engineering/
+    
   - title: "AI Notes"
     url: /AInotes/
-
+    
   - title: "Portfolio"
-    url: /portfolio/ 
+    url: /portfolio/
+    
+  - title: "CV"
+    url: /CV/
+
 
   # - title: "DS Fundamentals"
   #   url: /publications/
-
-  - title: "CV"
-   url: /CV/
