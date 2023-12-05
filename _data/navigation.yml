@@ -13,8 +13,8 @@ main:
     url: /portfolio/
     
   - title: "CV"
-    url: /CV/
-
+    url: ../files/Tahir_Muhammads_CV.pdf
+    download: true
 
   # - title: "DS Fundamentals"
   #   url: /publications/
