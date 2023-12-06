@@ -37,15 +37,6 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - 🗄️ [Storage](https://www.notion.so/Systems-Design-Crash-Course-5b8dadb63077441c9666a23468218174?pvs=21)
 - 🗃️ [Big Data - Mapreduce & Message Queues](https://www.notion.so/Systems-Design-Crash-Course-5b8dadb63077441c9666a23468218174?pvs=21)
 
-# Artificial Intelligence
-
-- 🤖 [Machine Learning Specialization - Offered by Deep-learning AI](https://www.notion.so/Machine-Learning-Specialization-Offered-by-Deep-learning-AI-68e6cc23bc034453b7bdbf4d8161d048?pvs=21)
-- 👁️ [Deep Learning - Computer Vision](https://www.notion.so/Deep-Learning-Computer-Vision-25bcbbb5625747009c8ccb6d094aafe2?pvs=21)
-- 🛠️ [MLOPs](https://www.notion.so/MLOPs-4de055f4ad5141618cb796989a30ac1b?pvs=21)
-- 🧠 [Machine Learning System Design](https://www.notion.so/Machine-Learning-System-Design-f9f0879cb2bb41ed84e1b21bb69a50d6?pvs=21)
-- 🌐 [Large Scale ML](https://www.notion.so/Large-Scale-ML-10fddc5d0de34e6a974e873d6aa1c2a5?pvs=21)
-- ➕ [Numpy Broadcasting](https://www.notion.so/Numpy-Broadcasting-cfb42b3b8432413e8007dc04c9dbce42?pvs=21)
-
 # Full Stack Software Engineering
 
 - 🐳 [Docker](https://tahirm.notion.site/Docker-8b83f6f6a2b243cf826d5db2dc1f13f4?pvs=4)
@@ -102,6 +93,15 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - 🧪 [A/B Testing - Taught by Google Engineers](https://www.notion.so/A-B-Testing-Taught-by-Google-Engineers-2ca96aa2a84a4326a270ccedd621aba2?pvs=21)
 - 💼 [Wealth Management](https://www.notion.so/Wealth-Management-326e957f176c4fd3b5025558351bddcc?pvs=21)
 - 📈 [Algorithmic Trading](https://www.notion.so/Algorithmic-Trading-344701dc8c7b4c2288e54144dc9727d1?pvs=21)
+
+# Artificial Intelligence
+
+- 🤖 [Machine Learning Specialization - Offered by Deep-learning AI](https://www.notion.so/Machine-Learning-Specialization-Offered-by-Deep-learning-AI-68e6cc23bc034453b7bdbf4d8161d048?pvs=21)
+- 👁️ [Deep Learning - Computer Vision](https://www.notion.so/Deep-Learning-Computer-Vision-25bcbbb5625747009c8ccb6d094aafe2?pvs=21)
+- 🛠️ [MLOPs](https://www.notion.so/MLOPs-4de055f4ad5141618cb796989a30ac1b?pvs=21)
+- 🧠 [Machine Learning System Design](https://www.notion.so/Machine-Learning-System-Design-f9f0879cb2bb41ed84e1b21bb69a50d6?pvs=21)
+- 🌐 [Large Scale ML](https://www.notion.so/Large-Scale-ML-10fddc5d0de34e6a974e873d6aa1c2a5?pvs=21)
+- ➕ [Numpy Broadcasting](https://www.notion.so/Numpy-Broadcasting-cfb42b3b8432413e8007dc04c9dbce42?pvs=21)
 
 # Machine Learning
 
