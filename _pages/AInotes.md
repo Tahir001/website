@@ -5,7 +5,7 @@ permalink: AInotes/
 location: "Toronto, Canada"
 ---
 
-The following page contains some of the knowledge I've gained about AI and ML throughout my years. Hoping to grow this over the next few years, as I climb the ladder & immerse myself in more AI-related work. 
+The following page contains some of the knowledge I've gained about AI and ML throughout my years. As a independent researcher, I struggled alot with finding quality resources and suitable guidance which would have've saved me alot of time. I now keep this page as a curated guide for anyone trying to get into the AI space and to help them on their journey.  
 
 <style>
 body {
