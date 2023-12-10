@@ -2,19 +2,6 @@
 main:
   - title: "Teaching"
     url: /teaching/
-    
-  - title: "Engineering"
-    url: /Engineering/
-    
-  - title: "AI Notes"
-    url: /AInotes/
-    
-  - title: "Portfolio"
-    url: /portfolio/
-    
-main:
-  - title: "Teaching"
-    url: /teaching/
 
   - title: "Engineering"
     url: /Engineering/
