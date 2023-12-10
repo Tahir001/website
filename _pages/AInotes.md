@@ -59,6 +59,16 @@ h1 {
 
   <div class="course">
     <div class="course-title">
+      <h2>Harvard's CS50: Introduction to Computer Science</h2>
+      <a href="https://cs50.harvard.edu/">Course 0 Notes</a>
+    </div>
+    <div class="course-image">
+      <img src="../images/cs50.png" alt="Course 1 Image">
+    </div>
+  </div>
+
+  <div class="course">
+    <div class="course-title">
       <h2>Mathematical Foundations for Machine Learning and Data Science</h2>
       <a href="https://tahir001.github.io/website/AInotes/AIbackground">Course 1 Notes</a>
     </div>
