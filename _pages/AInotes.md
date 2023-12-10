@@ -58,12 +58,12 @@ h1 {
   <h1> </h1>
 
   <div class="course">
-    <div class="course-title">
-      <h2>Harvard's CS50: Introduction to Computer Science</h2>
-      <a href="https://cs50.harvard.edu/">Course 0 Notes</a>
-    </div>
     <div class="course-image">
-      <img src="../images/cs50.png" alt="Course 1 Image">
+      <img src="../images/cs50.png" alt="Course 0 Image">
+    </div>
+    <div class="course-title">
+      <h2> Introduction to Computer Science </h2>
+       <a href="https://cs50.harvard.edu/">Course 0 Notes</a>
     </div>
   </div>
 
