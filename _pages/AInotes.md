@@ -63,7 +63,7 @@ h1 {
     </div>
     <div class="course-title">
       <h2> Introduction to Computer Science </h2>
-       <a href="https://cs50.harvard.edu/">Course 0 Notes</a>
+       <a href="https://cs50.harvard.edu/x/2023/weeks/0/">Course 0 Notes</a>
     </div>
   </div>
 
