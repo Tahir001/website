@@ -1,8 +1,7 @@
 ---
-layout: archive
-title: "My AI Portfolio"
-permalink: AIportfolio/
-location: "Toronto, Canada"
+layout: page
+title: "AI Portfolio"
+permalink: /AIportfolio/
 ---
 
 <style>
@@ -18,62 +17,56 @@ body {
   margin: 0 auto;
 }
 
-h1 {
-  text-align: center;
-  margin-top: 40px;
-  margin-bottom: 20px;
-}
-
 .project {
-  display: flex;
   margin-bottom: 30px;
 }
 
-.project-title,
-.project-image {
-  flex: 1;
-  padding: 20px;
-  background-color: white;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
+.project-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 5px;
 }
 
-.project-title h2,
-.project-title a {
-  margin: 10px 0;
+.project-authors {
+  margin-bottom: 10px;
 }
 
-.project-image img {
-  max-width: 100%;
-  max-height: 200px;
+.project-conference {
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.project-details {
+  margin-bottom: 20px;
+}
+
+.project-details a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+.project-details a:hover {
+  text-decoration: underline;
 }
 </style>
 
 <div class="container">
-  <h1>My AI Portfolio</h1>
 
   <div class="project">
-    <div class="project-image">
-      <img src="path/to/your/image1.png" alt="Project 1 Image">
-    </div>
-    <div class="project-title">
-      <h2>Project Title 1</h2>
-      <p>Description of your project. Highlight key achievements and learnings.</p>
-      <a href="project1_details.md">Project 1 Details</a>
+    <div class="project-title">Learning Deformable Tetrahedral Meshes for 3D Reconstruction</div>
+    <div class="project-authors">Jun Gao, Wenzheng Chen, Tommy Xiang, Alec Jacobson, Morgan McGuire, Sanja Fidler</div>
+    <div class="project-conference">In Neural Information Processing Systems (NeurIPS), Vancouver, Canada, 2020</div>
+    <div class="project-details">
+      [Paper](#) | [Abstract](#) | [Project page](#) | [Bibtex](#)
     </div>
   </div>
 
   <div class="project">
-    <div class="project-title">
-      <h2>Project Title 2</h2>
-      <p>Description of your project. Highlight key achievements and learnings.</p>
-      <a href="project2_details.md">Project 2 Details</a>
-    </div>
-    <div class="project-image">
-      <img src="path/to/your/image2.png" alt="Project 2 Image">
+    <div class="project-title">Variational Amodal Object Completion for Interactive Scene Editing</div>
+    <div class="project-authors">Huan Ling, David Acuna, Karsten Kreis, Seung Kim, Sanja Fidler</div>
+    <div class="project-conference">In Neural Information Processing Systems (NeurIPS), Vancouver, Canada, 2020</div>
+    <div class="project-details">
+      [Paper](#) | [Abstract](#) | [Project page](#) | [Bibtex](#)
     </div>
   </div>
 
