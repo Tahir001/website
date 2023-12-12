@@ -167,3 +167,7 @@ The following page showcases some of my projects in the field of AI and ML.
   <!-- Add more projects as needed -->
 
 </div>
+
+## AI Conferences
+
+Some of the AI conferences I had the pleasure to attend:[AI Conferences Notes](https://tahir001.github.io/website//AInotes/AIConferences)
