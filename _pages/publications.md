@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications & Projects"
+title: "P"
 permalink: publications/
 author_profile: true
 ---
