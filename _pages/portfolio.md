@@ -105,15 +105,15 @@ The following page showcases some of my projects in the field of AI and ML.
 <div class="container">
 
   <div class="project">
-    <img class="project-img" src="path/to/your/image1.jpg" alt="Project 1 Image">
+    <img class="project-img" src="../images/SGL_Paper_pic.png" alt="Project 1 Image">
     <div class="project-details">
-      <div class="project-title">Learning Deformable Tetrahedral Meshes for 3D Reconstruction</div>
-      <div class="project-authors">Jun Gao, Wenzheng Chen, Tommy Xiang, Alec Jacobson, Morgan McGuire, Sanja Fidler</div>
-      <div class="project-conference">In NeurIPS, Vancouver, 2020</div>
+      <div class="project-title">Sparse Group Lasso Paper Review & Implementation</div>
+      <div class="project-authors">Tahir Muhammad</div>
+      <div class="project-conference"></div>
       <div class="project-buttons">
-        <a class="paper" href="#">Paper</a>
-        <a class="abstract" href="#">Abstract</a>
-        <a class="project-page" href="#">Project page</a>
+        <a class="paper" href="https://drive.google.com/file/d/1mbH0SWPg9T1fQf9CLOnZP9zLOF6jSFdx/view?usp=sharing">Paper</a>
+        <a class="abstract" href="https://github.com/Tahir001/R/blob/master/Solutions/SparseGroupLasso.R"> Code</a>
+        <a class="project-page" href="https://github.com/Tahir001/R/blob/master/Solutions/SparseGroupLasso.R">Presentation</a>
         <a class="bibtex" href="#">Bibtex</a>
       </div>
     </div>
