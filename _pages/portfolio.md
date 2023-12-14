@@ -113,7 +113,7 @@ The following page showcases some of my projects in the field of AI and ML.
       <div class="project-buttons">
         <a class="paper" href="https://drive.google.com/file/d/1mbH0SWPg9T1fQf9CLOnZP9zLOF6jSFdx/view?usp=sharing">Paper</a>
         <a class="abstract" href="https://github.com/Tahir001/R/blob/master/Solutions/SparseGroupLasso.R"> Code</a>
-        <a class="project-page" href="https://drive.google.com/file/d/1GgNfvanirNl-EVQYeWLw1CdnDZ6Ld8fj/view?usp=sharing">Presentation</a>
+        <a class="project-page" href="https://docs.google.com/presentation/d/10pM19yjenCYsvZOFWCuAXsoiftGot3lFHjQvUJ7hheM/edit?usp=sharing">Presentation</a>
       </div>
     </div>
   </div>
