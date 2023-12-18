@@ -163,8 +163,7 @@ The following page showcases some of my projects in the field of AI and ML.
     </div>
   </div>
 
-
-   <div class="project">
+  <div class="project">
     <img class="project-img" src="../images/Resampling.png" alt="Project Image">
     <div class="project-details">
       <div class="project-title">Resampling Methods</div>
