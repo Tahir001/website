@@ -104,8 +104,8 @@ The following page showcases some of my projects in the field of AI and ML.
 
 <div class="container">
 
-  <div class="project">
-    <img class="project-img" src="../images/SGL_Paper_pic.png" alt="Project 1 Image">
+  <div class="project5">
+    <img class="project-img" src="../images/SGL_Paper_pic.png" alt="Project 5 Image">
     <div class="project-details">
       <div class="project-title">Sparse Group Lasso Paper Review & Implementation</div>
       <div class="project-authors">Tahir Muhammad</div>
@@ -118,8 +118,8 @@ The following page showcases some of my projects in the field of AI and ML.
     </div>
   </div>
 
-  <div class="project2">
-    <img class="project-img" src="path/to/your/image2.jpg" alt="Project 2 Image">
+  <div class="project4">
+    <img class="project-img" src="path/to/your/image4.jpg" alt="Project 4 Image">
     <div class="project-details">
       <div class="project-title">Variational Amodal Object Completion for Interactive Scene Editing</div>
       <div class="project-authors">Huan Ling, David Acuna, Karsten Kreis, Seung Kim, Sanja Fidler</div>
@@ -148,8 +148,8 @@ The following page showcases some of my projects in the field of AI and ML.
     </div>
   </div>
 
-  <div class="project4">
-    <img class="project-img" src="path/to/your/image4.jpg" alt="Project 4 Image">
+  <div class="project2">
+    <img class="project-img" src="path/to/your/image2.jpg" alt="Project 2 Image">
     <div class="project-details">
       <div class="project-title">Lift, Splat, Shoot: Encoding Images from Arbitrary Camera Rigs by Implicitly Unprojecting to 3D</div>
       <div class="project-authors">Jonah Philion, Sanja Fidler</div>
@@ -159,6 +159,34 @@ The following page showcases some of my projects in the field of AI and ML.
         <a class="abstract" href="#">Abstract</a>
         <a class="project-page" href="#">Project page</a>
         <a class="bibtex" href="#">Bibtex</a>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="project1">
+    <img class="project-img" src="../images/SGL_Paper_pic.png" alt="Project 1 Image">
+    <div class="project-details">
+      <div class="project-title">Sparse Group Lasso Paper Review & Implementation</div>
+      <div class="project-authors">Tahir Muhammad</div>
+      <div class="project-conference">Best Paper Award from all Statistical Learning II students (Recieved 98%)</div>
+      <div class="project-buttons">
+        <a class="paper" href="https://drive.google.com/file/d/1mbH0SWPg9T1fQf9CLOnZP9zLOF6jSFdx/view?usp=sharing">Paper</a>
+        <a class="abstract" href="https://github.com/Tahir001/R/blob/master/Solutions/SparseGroupLasso.R"> Code</a>
+        <a class="project-page" href="https://docs.google.com/presentation/d/10pM19yjenCYsvZOFWCuAXsoiftGot3lFHjQvUJ7hheM/edit?usp=sharing">Presentation</a>
+      </div>
+    </div>
+  </div>
+
+   <div class="project">
+    <img class="project-img" src="Resampling.png" alt="Project Image">
+    <div class="project-details">
+      <div class="project-title">Resampling Methods</div>
+      <div class="project-authors">Tahir Muhammad, Saurabh Sant</div>
+      <div class="project-conference"></div>
+      <div class="project-buttons">
+        <a class="paper" href="https://drive.google.com/file/d/1re5TodDTUuheRbXfwoVEZaMLI1P16n2O/view?usp=sharing">Paper</a>
+        <a class="abstract" href="https://github.com/Tahir001/R/blob/master/Solutions/Re-SamplingMethods.R">Code</a>
       </div>
     </div>
   </div>
