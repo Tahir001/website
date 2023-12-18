@@ -20,6 +20,7 @@ The following page showcases some of my projects in the field of AI and ML.
     }
 
     .project,
+    .project1,
     .project2,
     .project3,
     .project4 {
