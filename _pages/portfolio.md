@@ -149,7 +149,6 @@ The following page showcases some of my projects in the field of AI and ML.
     </div>
   </div>
 
-
   <div class="project1">
     <img class="project-img" src="../images/SGL_Paper_pic.png" alt="Project 1 Image">
     <div class="project-details">
@@ -163,6 +162,7 @@ The following page showcases some of my projects in the field of AI and ML.
       </div>
     </div>
   </div>
+
 
    <div class="project">
     <img class="project-img" src="../images/Resampling.png" alt="Project Image">
