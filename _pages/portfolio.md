@@ -179,14 +179,15 @@ The following page showcases some of my projects in the field of AI and ML.
   </div>
 
    <div class="project">
-    <img class="project-img" src="Resampling.png" alt="Project Image">
+    <img class="project-img" src="../images/Resampling.png" alt="Project Image">
     <div class="project-details">
       <div class="project-title">Resampling Methods</div>
       <div class="project-authors">Tahir Muhammad, Saurabh Sant</div>
       <div class="project-conference"></div>
       <div class="project-buttons">
         <a class="paper" href="https://drive.google.com/file/d/1re5TodDTUuheRbXfwoVEZaMLI1P16n2O/view?usp=sharing">Paper</a>
-        <a class="abstract" href="https://github.com/Tahir001/R/blob/master/Solutions/Re-SamplingMethods.R">Code</a>
+        <a class="abstract" href="https://drive.google.com/file/d/1re5TodDTUuheRbXfwoVEZaMLI1P16n2O/view?usp=sharing">Abstract</a>
+        <a class="project-page" href="https://github.com/Tahir001/R/blob/master/Solutions/Re-SamplingMethods.R">Code</a>
       </div>
     </div>
   </div>
