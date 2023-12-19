@@ -136,16 +136,15 @@ The following page showcases some of my projects in the field of AI and ML.
   </div>
 
   <div class="project2">
-    <img class="project-img" src="path/to/your/image2.jpg" alt="Project 2 Image">
+    <img class="project-img" src="../images/Entropy_paper_pic.png" alt="Project 2 Image">
     <div class="project-details">
-      <div class="project-title">Lift, Splat, Shoot: Encoding Images from Arbitrary Camera Rigs by Implicitly Unprojecting to 3D</div>
-      <div class="project-authors">Jonah Philion, Sanja Fidler</div>
-      <div class="project-conference">In ECCV, 2020</div>
+      <div class="project-title">Baysian Non-Parametric Estimation to Entropy and Extropy based on Right Censored Data</div>
+      <div class="project-authors">Luai Al Labadi, Tahir Muhammad</div>
+      <div class="project-conference">In Monte Carlo Methods and Applications, 2022</div>
       <div class="project-buttons">
-        <a class="paper" href="#">Paper</a>
-        <a class="abstract" href="#">Abstract</a>
-        <a class="project-page" href="#">Project page</a>
-        <a class="bibtex" href="#">Bibtex</a>
+        <a class="paper" href="https://www.degruyter.com/document/doi/10.1515/mcma-2022-2123/html?lang=en">Paper</a>
+        <a class="abstract" href="#">Code</a>
+        <a class="project-page" href="#">Presentation</a>
       </div>
     </div>
   </div>
@@ -165,7 +164,7 @@ The following page showcases some of my projects in the field of AI and ML.
   </div>
 
   <div class="project">
-    <img class="project-img" src="../images/Resampling.png" alt="Project Image">
+    <img class="project-img" src="../images/Resampling_paper_pic.png.png" alt="Project Image">
     <div class="project-details">
       <div class="project-title">Resampling Methods</div>
       <div class="project-authors">Tahir Muhammad, Saurabh Sant</div>
