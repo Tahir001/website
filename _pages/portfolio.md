@@ -164,7 +164,7 @@ The following page showcases some of my projects in the field of AI and ML.
   </div>
 
   <div class="project">
-    <img class="project-img" src="../images/Resampling_paper_pic.png.png" alt="Project Image">
+    <img class="project-img" src="../images/Resampling_paper_pic.png" alt="Project Image">
     <div class="project-details">
       <div class="project-title">Resampling Methods</div>
       <div class="project-authors">Tahir Muhammad, Saurabh Sant</div>
