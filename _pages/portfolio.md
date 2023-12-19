@@ -37,7 +37,7 @@ The following page showcases some of my projects in the field of AI and ML.
         width: 70px; /* Increase width by 10px */
         height: 70px; /* Increase height by 10px */
         object-fit: cover;
-        border-radius: 50%;
+       /* border-radius: 50%; */
         margin-right: 10px;
     }
 
