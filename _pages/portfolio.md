@@ -20,6 +20,7 @@ The following page showcases some of my projects in the field of AI and ML.
     }
 
     .project,
+    .project10,
     .project1,
     .project2,
     .project3,
@@ -159,6 +160,20 @@ The following page showcases some of my projects in the field of AI and ML.
         <a class="paper" href="https://drive.google.com/file/d/1mbH0SWPg9T1fQf9CLOnZP9zLOF6jSFdx/view?usp=sharing"> Paper</a>
         <a class="abstract" href="https://github.com/Tahir001/R/blob/master/Solutions/SparseGroupLasso.R"> Code</a>
         <a class="project-page" href="https://docs.google.com/presentation/d/10pM19yjenCYsvZOFWCuAXsoiftGot3lFHjQvUJ7hheM/edit?usp=sharing"> Presentation</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="project10">
+    <img class="project-img" src="../images/Nox_2.png" alt="Project 10 Image">
+    <div class="project-details">
+      <div class="project-title">Nox - A real-time feedback link between professors and students to enhance learning </div>
+      <div class="project-authors">Tahir Muhammad, Shoaib Khan, Ali Chaudhry</div>
+      <div class="project-conference"></div>
+      <div class="project-buttons">
+        <a class="paper" href="https://github.com/ShoaibKhan/Nox"> Paper</a>
+        <a class="abstract" href=""> Code</a>
+        <a class="project-page" href="#"> Presentation</a>
       </div>
     </div>
   </div>
