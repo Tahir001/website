@@ -90,7 +90,7 @@ h1 {
   <div class="course">
     <div class="course-title">
       <h2> Computer Vision </h2>
-      <a href="https://tahir001.github.io/website/AInotes/NLP">Course 3 Notes</a>
+      <a href="https://tahir001.github.io/website/AInotes/Computervision">Course 3 Notes</a>
     </div>
     <div class="course-image">
       <img src="../images/Computer_Vision.png" alt="Course 3 Image">
