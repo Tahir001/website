@@ -10,8 +10,8 @@ location: "Toronto, Canada"
 [More information here](https://cs229.stanford.edu/)
 
 ## Computer Vision and Image Processing
-- Topics:
-    - Digital Images and videos
+- Topics: 
+    - Digital Images, videos and OpenCV
     - Kernals, filters and convolution
     - Image rotation, padding, segmentation, edge detection
     - Gaussian Blur, Histogram Equalization
@@ -24,7 +24,7 @@ location: "Toronto, Canada"
     - Mini-Batch Gradient Descent 
     - Sigmoid, Softmax
     - Data Augmentation
-    - Deploying models
+    - Deploying models on IBM Cloud 
     - Object Detection, Haar Classifiers 
     - R-CNN
 - Projects & Code: [Here](https://github.com/Tahir001/Artificial-Intelligence/tree/main/Computer%20Vision)
