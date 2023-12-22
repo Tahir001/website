@@ -27,8 +27,8 @@ location: "Toronto, Canada"
     - Deploying models
     - Object Detection, Haar Classifiers 
     - R-CNN
-- Projects & Code: [Here](https://github.com/Tahir001/Artificial-Intelligence/tree/main/Standford%20ML%20Specialization)
-- Course Notes: [Here](https://drive.google.com/file/d/1N5iMOCOl6oWwimpF99TAZdG-hA10Ciot/view?usp=sharing)
+- Projects & Code: [Here](https://github.com/Tahir001/Artificial-Intelligence/tree/main/Computer%20Vision)
+- Course Notes: [Here](https://tahirm.notion.site/Computer-Vision-Notes-0133e0339c1d4613b29988c9a4c8d600?pvs=4)
 
 ## Additional Resources 
 
