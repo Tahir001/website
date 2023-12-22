@@ -164,6 +164,20 @@ The following page showcases some of my projects in the field of AI and ML.
     </div>
   </div>
 
+  <div class="project">
+    <img class="project-img" src="../images/Resampling_paper_pic.png" alt="Project Image">
+    <div class="project-details">
+      <div class="project-title">Resampling Methods</div>
+      <div class="project-authors">Tahir Muhammad, Saurabh Sant</div>
+      <div class="project-conference"></div>
+      <div class="project-buttons">
+        <a class="paper" href="https://drive.google.com/file/d/1re5TodDTUuheRbXfwoVEZaMLI1P16n2O/view?usp=sharing"> Paper</a>
+        <a class="abstract" href="https://github.com/Tahir001/R/blob/master/Solutions/Re-SamplingMethods.R"> Code</a>
+        <a class="project-page" href="#"> Presentation</a>
+      </div>
+    </div>
+  </div>
+
   <div class="project10">
     <img class="project-img" src="../images/Nox_2.png" alt="Project 10 Image">
     <div class="project-details">
@@ -178,19 +192,6 @@ The following page showcases some of my projects in the field of AI and ML.
     </div>
   </div>
 
-  <div class="project">
-    <img class="project-img" src="../images/Resampling_paper_pic.png" alt="Project Image">
-    <div class="project-details">
-      <div class="project-title">Resampling Methods</div>
-      <div class="project-authors">Tahir Muhammad, Saurabh Sant</div>
-      <div class="project-conference"></div>
-      <div class="project-buttons">
-        <a class="paper" href="https://drive.google.com/file/d/1re5TodDTUuheRbXfwoVEZaMLI1P16n2O/view?usp=sharing"> Paper</a>
-        <a class="abstract" href="https://github.com/Tahir001/R/blob/master/Solutions/Re-SamplingMethods.R"> Code</a>
-        <a class="project-page" href="#"> Presentation</a>
-      </div>
-    </div>
-  </div>
 
 </div>
 
