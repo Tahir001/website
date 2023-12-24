@@ -185,8 +185,8 @@ The following page showcases some of my projects in the field of AI and ML.
       <div class="project-authors">Tahir Muhammad, Shoaib Khan, Ali Chaudhry</div>
       <div class="project-conference"></div>
       <div class="project-buttons">
-        <a class="paper" href="https://github.com/ShoaibKhan/Nox"> Paper</a>
-        <a class="abstract" href=""> Code</a>
+        <a class="paper" href="#"> Paper</a>
+        <a class="abstract" href="https://github.com/ShoaibKhan/Nox"> Code</a>
         <a class="project-page" href="#"> Presentation</a>
       </div>
     </div>
