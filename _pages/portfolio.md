@@ -122,16 +122,15 @@ The following page showcases some of my projects in the field of AI and ML.
   </div>
 
   <div class="project3">
-    <img class="project-img" src="path/to/your/image3.jpg" alt="Project 3 Image">
+    <img class="project-img" src="../images/Entropy_paper_pic.png" alt="Project 3 Image">
     <div class="project-details">
-      <div class="project-title">Federated Simulation for Medical Imaging (nominated for Young Scientist Award)</div>
-      <div class="project-authors">Daiqing Li, Amlan Kar, Nishant Ravikumar, Alejandro F Frangi, Sanja Fidler</div>
-      <div class="project-conference">In MICCAI, 2020</div>
+      <div class="project-title">Quran Journey</div>
+      <div class="project-authors">Tahir Muhammad, Osama Hafiz, Sarah Edebb, Zeina Adi</div>
+      <div class="project-conference">Empowering young learners to learn the Quran efficiently</div>
       <div class="project-buttons">
         <a class="paper" href="#">Paper</a>
-        <a class="abstract" href="#">Abstract</a>
-        <a class="project-page" href="#">Project page</a>
-        <a class="bibtex" href="#">Bibtex</a>
+        <a class="abstract" href="https://github.com/Quran-Journey">Code</a>
+        <a class="project-page" href="https://roots.offlinequran.com/">Presentation</a>
       </div>
     </div>
   </div>
