@@ -122,7 +122,7 @@ The following page showcases some of my projects in the field of AI and ML.
   </div>
 
   <div class="project3">
-    <img class="project-img" src="../images/Entropy_paper_pic.png" alt="Project 3 Image">
+    <img class="project-img" src="../images/QuranJourney.png" alt="Project 3 Image">
     <div class="project-details">
       <div class="project-title">Quran Journey</div>
       <div class="project-authors">Tahir Muhammad, Osama Hafiz, Sarah Edebb, Zeina Adi</div>
