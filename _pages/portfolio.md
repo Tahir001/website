@@ -24,7 +24,8 @@ The following page showcases some of my projects in the field of AI and ML.
     .project1,
     .project2,
     .project3,
-    .project4 {
+    .project4,
+    .project5 {
         display: flex;
         align-items: center;
         margin-bottom: 15px; /* Decrease length by 5px */
@@ -107,7 +108,7 @@ The following page showcases some of my projects in the field of AI and ML.
 <div class="container">
 
   <div class="project4">
-    <img class="project-img" src="path/to/your/image4.jpg" alt="Project 4 Image">
+    <img class="project-img" src="../images/LunarLanding.png" alt="Project 4 Image">
     <div class="project-details">
       <div class="project-title">Deep-Q Reinforcement Learning - Lunar Landing</div>
       <div class="project-authors">Tahir Muhammad</div>
