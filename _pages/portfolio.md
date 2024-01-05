@@ -109,14 +109,13 @@ The following page showcases some of my projects in the field of AI and ML.
   <div class="project4">
     <img class="project-img" src="path/to/your/image4.jpg" alt="Project 4 Image">
     <div class="project-details">
-      <div class="project-title">Variational Amodal Object Completion for Interactive Scene Editing</div>
-      <div class="project-authors">Huan Ling, David Acuna, Karsten Kreis, Seung Kim, Sanja Fidler</div>
-      <div class="project-conference">In NeurIPS, Vancouver, 2020</div>
+      <div class="project-title">Deep-Q Reinforcement Learning - Lunar Landing</div>
+      <div class="project-authors">Tahir Muhammad</div>
+      <div class="project-conference"></div>
       <div class="project-buttons">
         <a class="paper" href="#">Paper</a>
-        <a class="abstract" href="#">Abstract</a>
-        <a class="project-page" href="#">Project page</a>
-        <a class="bibtex" href="#">Bibtex</a>
+        <a class="abstract" href="https://github.com/Tahir001/Artificial-Intelligence/blob/main/Standford%20ML%20Specialization/ReinforcementLearning-LunarLandingAgent/C3_W3_A1_Assignment.ipynb">Code</a>
+        <a class="project-page" href="#">Presentation</a>
       </div>
     </div>
   </div>
