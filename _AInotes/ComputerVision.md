@@ -7,9 +7,11 @@ date: 2021-06-25
 location: "Toronto, Canada"
 ---
 
-[More information here](https://cs229.stanford.edu/)
+[More information here](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv#modules)
 
 ## Computer Vision and Image Processing
+- Projects & Code: [Here](https://github.com/Tahir001/Artificial-Intelligence/tree/main/Computer%20Vision)
+- Course Notes: [Here](https://tahirm.notion.site/Computer-Vision-Notes-0133e0339c1d4613b29988c9a4c8d600?pvs=4)
 - Topics: 
     - Digital Images, videos and OpenCV
     - Kernals, filters and convolution
@@ -27,8 +29,6 @@ location: "Toronto, Canada"
     - Deploying models on IBM Cloud 
     - Object Detection, Haar Classifiers 
     - R-CNN
-- Projects & Code: [Here](https://github.com/Tahir001/Artificial-Intelligence/tree/main/Computer%20Vision)
-- Course Notes: [Here](https://tahirm.notion.site/Computer-Vision-Notes-0133e0339c1d4613b29988c9a4c8d600?pvs=4)
 
 ## Additional Resources 
 
