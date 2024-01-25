@@ -32,10 +32,10 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - 🏛️ [Fundemental Background (Computer and App Architecture)](https://tahirm.notion.site/Fundamental-Background-Computer-and-App-Architecture-91bb2afd715c434f87eef130f16ca91c)
 - 🌍 [Networking Topics](https://tahirm.notion.site/Networking-Topics-6013a72af90b41389d230b2c0df51032?pvs=4)
 - 🤝 [APIs - Application Programming Interface](https://tahirm.notion.site/APIs-Application-Interface-Programming-4f6ad8942a5f4343a6decf904f2a0d93?pvs=4)
-- 🔄 [Caching Basics](https://tahirm.notion.site/Caching-Basics-84539429773243c68f1d3d2ce88d97d9)
-- ⚖️ [Load Balancers & Hashing](https://tahirm.notion.site/Load-Balancers-and-Hashing-2cd5c08993a74ff0b75bb071b0d7e0e3?pvs=4)
-- 🗄️ [Storage](https://www.notion.so/Systems-Design-Crash-Course-5b8dadb63077441c9666a23468218174?pvs=21)
-- 🗃️ [Big Data - Mapreduce & Message Queues](https://www.notion.so/Systems-Design-Crash-Course-5b8dadb63077441c9666a23468218174?pvs=21)
+- 🔄 [Caching Basics & CDNs](https://tahirm.notion.site/Caching-Basics-84539429773243c68f1d3d2ce88d97d9)
+- ⚖️ [Load Balancers, Proxies & Hashing](https://tahirm.notion.site/Load-Balancers-and-Hashing-2cd5c08993a74ff0b75bb071b0d7e0e3?pvs=4)
+- 🗄️ [Storage (Databases, Replication & Sharding)](https://tahirm.notion.site/Storage-DBs-Replication-Sharding-and-Object-Storage-7e8f6047d319472eba66ec94be75b7fa)
+- 🗃️ [Big Data - Mapreduce & Message Queues](https://tahirm.notion.site/Big-Data-Mapreduce-and-Message-Queues-4e05a43466d248d1a5d375f548eb2f81)
 
 # Full Stack Software Engineering
 
