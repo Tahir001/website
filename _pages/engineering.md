@@ -19,6 +19,7 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - 📊 [R](https://tahirm.notion.site/R-Programming-Language-crash-course-3be5e36b1d76446c915fcef585a7a8c9)
 - 📝 [YAML](https://tahirm.notion.site/YAML-45a7a46fe3f84403abafb8dc04af89a7?pvs=4)
 - ⚡️ [Spark](https://tahirm.notion.site/Spark-32eb04fb0db24261b7a7e7168ccf27e4?pvs=4)
+- 🔧 [Scala](https://tahirm.notion.site/Scala-Crash-Course-61a4f99377bc40eba71c40a72b467b72)
 
 # Computer Science Fundamentals
 
