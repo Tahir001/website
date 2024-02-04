@@ -30,14 +30,6 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - 🎯 [Patterns for Coding Interviews](https://tahirm.notion.site/Patterns-for-Coding-Interviews-fdee4b717ef745ee871aab2e2ad905be)
 
 
-# Mathematics & Statistics
-- 🔢 [Linear Algebra Foundations](https://tahirm.notion.site/Linear-Algebra-Foundations-80574f51ca944c9a8b9196431ac1fbb9?pvs=4)
-- ➗ [Calculus (Single and Multivariate)](https://tahirm.notion.site/Calculus-b1aa6236b1014b2496a2462a7982d7c3)
-- 🎲 [Probability Theory](https://tahirm.notion.site/Probability-ec9e11463ec2447b98506a3267f13fab)
-- 📈 [Random Variables and Distributions](https://tahirm.notion.site/Probability-ec9e11463ec2447b98506a3267f13fab)
-- 📊 [Inference](https://tahirm.notion.site/Inference-Estimation-Confidence-Intervals-and-Hypothesis-Testing-b6393a2330db423ca150bcb3eb7786c9)
-- 📉 [Hypothesis Testing & Confidence Intervals](https://tahirm.notion.site/Inference-Estimation-Confidence-Intervals-and-Hypothesis-Testing-b6393a2330db423ca150bcb3eb7786c9)
-
 # Systems Design & Infrastructure Concepts 
 - 🏛️ [Fundemental Background (Computer and App Architecture)](https://tahirm.notion.site/Fundamental-Background-Computer-and-App-Architecture-91bb2afd715c434f87eef130f16ca91c)
 - 🌍 [Networking Topics](https://tahirm.notion.site/Networking-Topics-6013a72af90b41389d230b2c0df51032?pvs=4)
@@ -50,30 +42,28 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 # Full Stack Software Engineering
 
 - 🐳 [Docker](https://tahirm.notion.site/Docker-8b83f6f6a2b243cf826d5db2dc1f13f4?pvs=4)
-- 🗄️ [Postgres and Postman](https://www.notion.so/Docker-1-8b83f6f6a2b243cf826d5db2dc1f13f4?pvs=21)
+- ☸️ [Kubernetes](https://tahirm.notion.site/Kubernetes-da5c2f5185524f798617ca3bf914df1c)
+- 📮 [Postman & Protobuf](https://tahirm.notion.site/Protobuf-and-Postman-ebf019a27f94483a9c3573c48d13bd8b)
 - 🐧 [Linux/Unix, and Terminal](https://tahirm.notion.site/Linux-Unix-and-Terminal-695bdccb00c94df591f44154a4b4fe0d?pvs=4)
 - 🐙 [Git and Github](https://tahirm.notion.site/Git-and-Github-f82d3e3433974110970f423d131fa59d?pvs=4)
 - 🚀 [CI/CD Fundamentals](https://tahirm.notion.site/CI-CD-Fundementals-13fa2d8c07ef4d039d652d429cfcabb0)
-- 🌐 [Environment Variables](https://www.notion.so/Docker-1-8b83f6f6a2b243cf826d5db2dc1f13f4?pvs=21)
-- 🌐 [Web Development Primer)](https://www.notion.so/Web-Development-Primer-8d308492765e404aae87d29179b1baaa?pvs=21)
-- ☁️  [Microservices, VMs & Cloud Migration](https://tahirm.notion.site/Cloud-Computing-116505e760a24ba3b8373dd7c023c331)
-- 🌐 [Terraform](https://www.notion.so/Cloud-Computing-116505e760a24ba3b8373dd7c023c331?pvs=21)
+- 🖥️  [Microservices, VMs & Cloud Migration](https://tahirm.notion.site/Cloud-Computing-116505e760a24ba3b8373dd7c023c331)
 
-# Data Science Tools
 
-- 🐘 [Big Data (Hadoop, Hive and HDFS)](https://www.notion.so/Big-Data-Hadoop-HDFS-Spark-Scala-3e860bedb09e46d4abad030642e6259f?pvs=21)
-- 📊 [Tableau](https://www.notion.so/Tableau-508337e681d5411082982f9929380304?pvs=21)
-- ☁️ [AWS S3](https://www.example.com/aws-s3)
-- 📚 [PrestoSQL / Trino](https://tahirm.notion.site/Alteryx-Software-89771945449648edb7676c14f3912043)
-- 🌐 [Azure Databricks](https://tahirm.notion.site/Alteryx-Software-89771945449648edb7676c14f3912043)
-- 📈 [Time Series Basics](https://tahirm.notion.site/Time-Series-Analysis-344701dc8c7b4c2288e54144dc9727d1)
+# Data Science Concepts & Tools Tools
+- 🔢 [Linear Algebra Foundations](https://tahirm.notion.site/Linear-Algebra-Foundations-80574f51ca944c9a8b9196431ac1fbb9?pvs=4)
+- ➗ [Single and Multivariate Calculus Fundementals](https://tahirm.notion.site/Calculus-b1aa6236b1014b2496a2462a7982d7c3)
+- 🎲 [Probability Theory - Random Variables and Distributions](https://tahirm.notion.site/Probability-ec9e11463ec2447b98506a3267f13fab)
+- 🎯 [Inference - Hypotheis Testing & Confidence Intervals](https://tahirm.notion.site/Inference-Estimation-Confidence-Intervals-and-Hypothesis-Testing-b6393a2330db423ca150bcb3eb7786c9)
+- 📈 [Time Series Analysis](https://tahirm.notion.site/Time-Series-Analysis-344701dc8c7b4c2288e54144dc9727d1)
 - 🧪 [A/B Testing](https://tahirm.notion.site/A-B-Testing-Correct_Link_Here)
+- 📊 [Tableau](https://www.notion.so/Tableau-508337e681d5411082982f9929380304?pvs=21)
+- 📚 [PrestoSQL / Trino](https://tahirm.notion.site/Alteryx-Software-89771945449648edb7676c14f3912043)
 - 🔧 [Alteryx Software](https://tahirm.notion.site/Alteryx-Software-89771945449648edb7676c14f3912043)
 
 # Big Data Engineering Tools
-
 - 🛠️ [Big Data - Comprehensive Technology Tools](https://tahirm.notion.site/Big-Data-Hadoop-HDFS-Spark-Scala-3e860bedb09e46d4abad030642e6259f)
-- 📚 [Data Engineer Introduction](https://tahirm.notion.site/Data-Engineer-Introduction-8c3f204c80984e7f870dce2125b45bfc?pvs=4)
+- 🐘 [Hadoop, Hive and HDFS](https://www.notion.so/Big-Data-Hadoop-HDFS-Spark-Scala-3e860bedb09e46d4abad030642e6259f?pvs=21)
 - 🚀 [Spark](www.github.com)
 - 🌀 [Apache Pulsar](https://www.example.com/apache-pulsar)
 - 🌬️ [Apache Airflow](https://www.example.com/apache-airflow)
@@ -81,30 +71,13 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - 🌊 [AWS Kinesis](https://www.example.com/aws-kinesis)
 - 🏔️ [Elastic Search](https://www.example.com/elastic-search)
 
-# Mathematics & Statistics
-
-- 🔢 [Linear Algebra Foundations](https://tahirm.notion.site/Linear-Algebra-Foundations-80574f51ca944c9a8b9196431ac1fbb9?pvs=4)
-- ➗ [Calculus](https://tahirm.notion.site/Calculus-b1aa6236b1014b2496a2462a7982d7c3)
-- 🎲 [Probability Introduction](https://tahirm.notion.site/Probability-ec9e11463ec2447b98506a3267f13fab)
-- 📈 [Random Variables](https://tahirm.notion.site/Probability-ec9e11463ec2447b98506a3267f13fab)
-- 📊 [Inference](https://tahirm.notion.site/Inference-Estimation-Confidence-Intervals-and-Hypothesis-Testing-b6393a2330db423ca150bcb3eb7786c9)
-- 📉 [Hypothesis Testing & Confidence Intervals](https://tahirm.notion.site/Inference-Estimation-Confidence-Intervals-and-Hypothesis-Testing-b6393a2330db423ca150bcb3eb7786c9)
-- 📚 [Causal Inference Models](https://www.notion.so/Probability-ec9e11463ec2447b98506a3267f13fab?pvs=21)
-- 📊 [Entropy and Extropy for Type II censored data](https://tahirm.notion.site/Calculus-b1aa6236b1014b2496a2462a7982d7c3)
-
 # Cloud Computing
 
 - ☁️ [AWS Fundamentals](https://www.example.com/aws-fundamentals)
 - ☁️ [Azure Fundamentals](https://www.example.com/azure-fundamentals)
 - ☁️ [GCP Fundamentals](https://www.example.com/gcp-fundamentals)
 
-# Product Sense / Case Study Topics
-
-- 🧪 [A/B Testing - Taught by Google Engineers](https://www.notion.so/A-B-Testing-Taught-by-Google-Engineers-2ca96aa2a84a4326a270ccedd621aba2?pvs=21)
-- 💼 [Wealth Management](https://www.notion.so/Wealth-Management-326e957f176c4fd3b5025558351bddcc?pvs=21)
-- 📈 [Algorithmic Trading](https://www.notion.so/Algorithmic-Trading-344701dc8c7b4c2288e54144dc9727d1?pvs=21)
-
-# Artificial Intelligence
+# Applied Machine Learning
 
 - 🤖 [Machine Learning Specialization - Offered by Deep-learning AI](https://www.notion.so/Machine-Learning-Specialization-Offered-by-Deep-learning-AI-68e6cc23bc034453b7bdbf4d8161d048?pvs=21)
 - 👁️ [Deep Learning - Computer Vision](https://www.notion.so/Deep-Learning-Computer-Vision-25bcbbb5625747009c8ccb6d094aafe2?pvs=21)
@@ -112,8 +85,3 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - 🧠 [Machine Learning System Design](https://www.notion.so/Machine-Learning-System-Design-f9f0879cb2bb41ed84e1b21bb69a50d6?pvs=21)
 - 🌐 [Large Scale ML](https://www.notion.so/Large-Scale-ML-10fddc5d0de34e6a974e873d6aa1c2a5?pvs=21)
 - ➕ [Numpy Broadcasting](https://www.notion.so/Numpy-Broadcasting-cfb42b3b8432413e8007dc04c9dbce42?pvs=21)
-
-# Machine Learning
-
-- 🧠 [ML for AlgoTrading](https://www.notion.so/ML-for-AlgoTrading-c6c34a685de24c2b84d584a9818a707d?pvs=21)
-- 🤖 [ML for Trading](https://www.notion.so/8ba0f31a95334005a6d682861ef059fa?pvs=21)
