@@ -31,6 +31,7 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 
 
 # Systems Design & Infrastructure Concepts 
+
 - 🏛️ [Fundemental Background (Computer and App Architecture)](https://tahirm.notion.site/Fundamental-Background-Computer-and-App-Architecture-91bb2afd715c434f87eef130f16ca91c)
 - 🌍 [Networking Topics](https://tahirm.notion.site/Networking-Topics-6013a72af90b41389d230b2c0df51032?pvs=4)
 - 🤝 [APIs - Application Programming Interface](https://tahirm.notion.site/APIs-Application-Interface-Programming-4f6ad8942a5f4343a6decf904f2a0d93?pvs=4)
@@ -50,7 +51,8 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - 🖥️  [Microservices, VMs & Cloud Migration](https://tahirm.notion.site/Cloud-Computing-116505e760a24ba3b8373dd7c023c331)
 
 
-# Data Science Concepts & Tools Tools
+# Data Science Concepts & Tools
+
 - 🔢 [Linear Algebra Foundations](https://tahirm.notion.site/Linear-Algebra-Foundations-80574f51ca944c9a8b9196431ac1fbb9?pvs=4)
 - ➗ [Single and Multivariate Calculus Fundementals](https://tahirm.notion.site/Calculus-b1aa6236b1014b2496a2462a7982d7c3)
 - 🎲 [Probability Theory - Random Variables and Distributions](https://tahirm.notion.site/Probability-ec9e11463ec2447b98506a3267f13fab)
@@ -62,6 +64,7 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - 🔧 [Alteryx Software](https://tahirm.notion.site/Alteryx-Software-89771945449648edb7676c14f3912043)
 
 # Big Data Engineering Tools
+
 - 🛠️ [Big Data - Comprehensive Technology Tools](https://tahirm.notion.site/Big-Data-Hadoop-HDFS-Spark-Scala-3e860bedb09e46d4abad030642e6259f)
 - 🐘 [Hadoop, Hive and HDFS](https://www.notion.so/Big-Data-Hadoop-HDFS-Spark-Scala-3e860bedb09e46d4abad030642e6259f?pvs=21)
 - 🚀 [Spark](www.github.com)
