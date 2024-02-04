@@ -29,6 +29,15 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - 🧪 [Object Oriented Programming](https://www.notion.so/Object-Oriented-Programming-94a878065ed44c9b8a36b348a1d0ff38?pvs=21)
 - 🎯 [Patterns for Coding Interviews](https://tahirm.notion.site/Patterns-for-Coding-Interviews-fdee4b717ef745ee871aab2e2ad905be)
 
+
+# Mathematics & Statistics
+- 🔢 [Linear Algebra Foundations](https://tahirm.notion.site/Linear-Algebra-Foundations-80574f51ca944c9a8b9196431ac1fbb9?pvs=4)
+- ➗ [Calculus (Single and Multivariate)](https://tahirm.notion.site/Calculus-b1aa6236b1014b2496a2462a7982d7c3)
+- 🎲 [Probability Theory](https://tahirm.notion.site/Probability-ec9e11463ec2447b98506a3267f13fab)
+- 📈 [Random Variables and Distributions](https://tahirm.notion.site/Probability-ec9e11463ec2447b98506a3267f13fab)
+- 📊 [Inference](https://tahirm.notion.site/Inference-Estimation-Confidence-Intervals-and-Hypothesis-Testing-b6393a2330db423ca150bcb3eb7786c9)
+- 📉 [Hypothesis Testing & Confidence Intervals](https://tahirm.notion.site/Inference-Estimation-Confidence-Intervals-and-Hypothesis-Testing-b6393a2330db423ca150bcb3eb7786c9)
+
 # Systems Design & Infrastructure Concepts 
 - 🏛️ [Fundemental Background (Computer and App Architecture)](https://tahirm.notion.site/Fundamental-Background-Computer-and-App-Architecture-91bb2afd715c434f87eef130f16ca91c)
 - 🌍 [Networking Topics](https://tahirm.notion.site/Networking-Topics-6013a72af90b41389d230b2c0df51032?pvs=4)
