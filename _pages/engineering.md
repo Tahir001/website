@@ -29,7 +29,6 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - 🧪 [Object Oriented Programming](https://www.notion.so/Object-Oriented-Programming-94a878065ed44c9b8a36b348a1d0ff38?pvs=21)
 - 🎯 [Patterns for Coding Interviews](https://tahirm.notion.site/Patterns-for-Coding-Interviews-fdee4b717ef745ee871aab2e2ad905be)
 
-
 # Systems Design & Infrastructure Concepts 
 
 - 🏛️ [Fundemental Background (Computer and App Architecture)](https://tahirm.notion.site/Fundamental-Background-Computer-and-App-Architecture-91bb2afd715c434f87eef130f16ca91c)
@@ -70,7 +69,7 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - 🚀 [Spark](www.github.com)
 - 🌀 [Apache Pulsar](https://www.example.com/apache-pulsar)
 - 🌬️ [Apache Airflow](https://www.example.com/apache-airflow)
-- 🔥 [Apache Flink](https://www.notion.so/tahirm/Apache-Flink-e4237be7c88047159bf0869fe4271d89)
+- 🔥 [Apache Flink](https://tahirm.notion.site/Apache-Flink-e4237be7c88047159bf0869fe4271d89)
 - 🌊 [AWS Kinesis](https://www.example.com/aws-kinesis)
 - 🏔️ [Elastic Search](https://www.example.com/elastic-search)
 

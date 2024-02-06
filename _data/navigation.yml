@@ -17,6 +17,5 @@ main:
     external: true  # This opens the link in a new tab
     download: true  # This prompts the browser to download the file
 
-
   # - title: "DS Fundamentals"
   #   url: /publications/
