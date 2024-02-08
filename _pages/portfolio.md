@@ -107,6 +107,21 @@ The following page showcases some of my projects in the field of AI and ML.
 
 <div class="container">
 
+
+  <div class="project5">
+    <img class="project-img" src="../images/synthetic_data.png" alt="Project 5 Image">
+    <div class="project-details">
+      <div class="project-title">Fraudit </div>
+      <div class="project-authors">Tahir Muhammad, Hafsa Zahid, Cindy Lau, Albert S. </div>
+      <div class="project-conference">Detecting Fraudulent Loans with Scotiabank & University of Toronto</div>
+      <div class="project-buttons">
+        <a class="paper" href="#">Paper</a>
+        <a class="abstract" href="https://github.com/Tahir001/Fraudit/blob/main/Scripts/IMI%20CASE%20COMPETITION%20%5BMaster%20Sheet%5D.ipynb">Code</a>
+        <a class="project-page" href="https://docs.google.com/presentation/d/1TSxYwJy-8RPQgrMXTs8Cb-ag7hUpsb4q29BoZ7dX5Z4/edit?usp=sharing">Presentation</a>
+      </div>
+    </div>
+  </div>
+
   <div class="project4">
     <img class="project-img" src="../images/LunarLanding.png" alt="Project 4 Image">
     <div class="project-details">
