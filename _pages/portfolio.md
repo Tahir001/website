@@ -109,7 +109,7 @@ The following page showcases some of my projects in the field of AI and ML.
 
 
   <div class="project5">
-    <img class="project-img" src="../images/synthetic_data.png" alt="Project 5 Image">
+    <img class="project-img" src="../images/k_means.png" alt="Project 5 Image">
     <div class="project-details">
       <div class="project-title">Fraudit </div>
       <div class="project-authors">Tahir Muhammad, Hafsa Zahid, Cindy Lau, Albert S. </div>
