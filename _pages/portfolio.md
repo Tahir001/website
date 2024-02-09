@@ -5,7 +5,8 @@ permalink: portfolio/
 location: "Toronto, Canada"
 ---
 
-The following page showcases some of my projects in the field of AI and ML.
+The following page showcases some of my papers and projects worked on by me over the last few years. 
+
 <style>
     body {
         font-family: 'Arial', sans-serif;
