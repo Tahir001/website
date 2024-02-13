@@ -64,9 +64,9 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 
 # Big Data Engineering Tools
 
-- 🛠️ [Big Data - Comprehensive Technology Tools](https://tahirm.notion.site/Big-Data-Hadoop-HDFS-Spark-Scala-3e860bedb09e46d4abad030642e6259f)
-- 🐘 [Hadoop, Hive and HDFS](https://www.notion.so/Big-Data-Hadoop-HDFS-Spark-Scala-3e860bedb09e46d4abad030642e6259f?pvs=21)
-- 🚀 [Spark](www.github.com)
+- 🛠️ [Big Data - Comprehensive Tech Stack](https://tahirm.notion.site/Big-Data-Hadoop-HDFS-Spark-Scala-3e860bedb09e46d4abad030642e6259f)
+- 🐘 [Hadoop, Hive and HDFS](https://tahirm.notion.site/Hadoop-Hive-and-HDFS-b1b7503de8384145b9fffd0a52fa6afa)
+- 🚀 [Apache Spark](www.github.com)
 - 🌀 [Apache Pulsar](https://www.example.com/apache-pulsar)
 - 🏔️ [Apache Iceberg](https://tahirm.notion.site/Apache-Iceberg-8a38ccd8bea44fa7aafe48d3240561b8)
 - 🌬️ [Apache Airflow](https://www.example.com/apache-airflow)
