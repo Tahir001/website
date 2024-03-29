@@ -110,7 +110,7 @@ The following page showcases some of my papers and projects worked on by me over
 <div class="container">
 
   <div class="project6">
-    <img class="project-img" src="../images/warnify_heatmap.png" alt="Project 6 Image">
+    <img class="project-img" src="../images/warnify_legit.png" alt="Project 6 Image">
     <div class="project-details">
       <div class="project-title">Warnify </div>
       <div class="project-authors">Tahir Muhammad, Shoaib Khan, Erub Khan . </div>
