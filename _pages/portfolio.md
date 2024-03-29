@@ -110,15 +110,15 @@ The following page showcases some of my papers and projects worked on by me over
 <div class="container">
 
   <div class="project6">
-    <img class="project-img" src="../images/k_means.png" alt="Project 5 Image">
+    <img class="project-img" src="../images/warnify_heatmap.png" alt="Project 6 Image">
     <div class="project-details">
-      <div class="project-title">Fraudit </div>
-      <div class="project-authors">Tahir Muhammad, Hafsa Zahid, Cindy Lau, Albert S. </div>
-      <div class="project-conference">Detecting Fraudulent Loans with Scotiabank & University of Toronto</div>
+      <div class="project-title">Warnify </div>
+      <div class="project-authors">Tahir Muhammad, Shoaib Khan, Erub Khan . </div>
+      <div class="project-conference">Detecting Fraudulent SMS messages</div>
       <div class="project-buttons">
         <a class="paper" href="#">Paper</a>
-        <a class="abstract" href="https://github.com/Tahir001/Fraudit/blob/main/Scripts/IMI%20CASE%20COMPETITION%20%5BMaster%20Sheet%5D.ipynb">Code</a>
-        <a class="project-page" href="https://docs.google.com/presentation/d/1TSxYwJy-8RPQgrMXTs8Cb-ag7hUpsb4q29BoZ7dX5Z4/edit?usp=sharing">Presentation</a>
+        <a class="abstract" href="https://github.com/Warnify">Code</a>
+        <a class="project-page" href="https://warnify.vercel.app/">Presentation</a>
       </div>
     </div>
   </div>
