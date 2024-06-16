@@ -71,6 +71,7 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - 🏔️ [Apache Iceberg](https://tahirm.notion.site/Apache-Iceberg-8a38ccd8bea44fa7aafe48d3240561b8)
 - 🌬️ [Apache Airflow](https://www.example.com/apache-airflow)
 - 🔥 [Apache Flink](https://tahirm.notion.site/Apache-Flink-e4237be7c88047159bf0869fe4271d89)
+- 📨 [Apache Kafka](https://www.notion.so/tahirm/Apache-Kafka-5579b28738ab423db41891dfaae8b682)
 - 🌊 [AWS Kinesis](https://www.example.com/aws-kinesis)
 - 🔍 [Elastic Search](https://www.example.com/elastic-search)
 
