@@ -9,20 +9,22 @@ In my tech journey, I've held diverse roles in both Data (Scientist, Analyst, En
 
 I established this page to champion the spirit of lifelong learning, sharing insights I've gleaned from exploring diverse technologies. I hope these notes will aid your own learning journey.
 
-__Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, PySpark, Airflow, Flink, AWS Kinesis, Elastic Search, PrestoSQL / Trino, Gitlab CI/CD, Terraform, Python (Scripting, Analysis, & ML - Pandas, Numpy, Pytorch, Tensorflow)
+__Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, PySpark, Airflow, Flink, AWS Kinesis, Elastic Search, PrestoSQL / Trino, Gitlab CI/CD, Terraform, Python (Pandas, Numpy, Scikit-Learn, MLflow, Pytorch, Tensorflow, FastAPI, Flask, etc.)
 
 # Programming Languages
+<!-- Comment: Fix Python, JS, Spark and Scala -->
 
 - ⭐ [Python](https://tahirm.notion.site/Python-23512f9e5aca4fe99b505f8aec3d61b3)
 - 🗄️ [SQL - Structured Query Language](https://tahirm.notion.site/SQL-Structured-Query-Language-3d3b50eb6cb74e8bada9eb13f4be4563)
 - 💡 [JavaScript](https://www.notion.so/JavaScript-327dc9775c85491884a0fe4dc74a4748?pvs=21)
 - 📊 [R](https://tahirm.notion.site/R-Programming-Language-crash-course-3be5e36b1d76446c915fcef585a7a8c9)
 - 📝 [YAML](https://tahirm.notion.site/YAML-45a7a46fe3f84403abafb8dc04af89a7?pvs=4)
-- ⚡️ [Spark](https://tahirm.notion.site/Spark-32eb04fb0db24261b7a7e7168ccf27e4?pvs=4)
-- 🔧 [Scala](https://tahirm.notion.site/Scala-Crash-Course-61a4f99377bc40eba71c40a72b467b72)
+- ⚡️  [Spark](https://tahirm.notion.site/Spark-32eb04fb0db24261b7a7e7168ccf27e4?pvs=4)
+- 🔧 [Scala](https://tahirm.notion.site/Scala-Crash-Course-61a4f99377bc40eba71c40a72b467b72)  
 
 # Computer Science Fundamentals
 
+<!-- Comment: OOP -->
 - 🚀 [Software Engineering Concepts](https://tahirm.notion.site/Software-Engineering-Concepts-05d56b701b5048a99bf2d80f6b05310d?pvs=4)
 - 📚 [Data Structures](https://tahirm.notion.site/Data-Structures-23671ba52b4b4fe387d6f43a596bd58c?pvs=4)
 - 🔍 [Algorithms](https://tahirm.notion.site/Algorithms-043c3ce6a3d74ddabee60ccd3f72d88a?pvs=4)
@@ -41,6 +43,7 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 
 # Full Stack Software Engineering
 
+<!-- Comment: Fix Linux/Terminal, add APIs, Django, maybe Databases -->
 - 🐳 [Docker](https://tahirm.notion.site/Docker-8b83f6f6a2b243cf826d5db2dc1f13f4?pvs=4)
 - ☸️ [Kubernetes](https://tahirm.notion.site/Kubernetes-da5c2f5185524f798617ca3bf914df1c)
 - 📮 [Postman & Protobuf](https://tahirm.notion.site/Protobuf-and-Postman-ebf019a27f94483a9c3573c48d13bd8b)
@@ -51,6 +54,7 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 
 
 # Data Science Concepts & Tools
+<!-- Comment: Fix Time Series, Tableau, Trino, Alteryx Software -->
 
 - 🔢 [Linear Algebra Foundations](https://tahirm.notion.site/Linear-Algebra-Foundations-80574f51ca944c9a8b9196431ac1fbb9?pvs=4)
 - ➗ [Single and Multivariate Calculus Fundementals](https://tahirm.notion.site/Calculus-b1aa6236b1014b2496a2462a7982d7c3)
@@ -63,7 +67,7 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - 🔧 [Alteryx Software](https://tahirm.notion.site/Alteryx-Software-89771945449648edb7676c14f3912043)
 
 # Big Data Engineering Tools
-
+<!-- Comment: Fix Apache Pulsar, Flink,  -->
 - 🛠️ [Big Data - Comprehensive Tech Stack](https://tahirm.notion.site/Big-Data-Hadoop-HDFS-Spark-Scala-3e860bedb09e46d4abad030642e6259f)
 - 🐘 [Hadoop, Hive and HDFS](https://tahirm.notion.site/Hadoop-Hive-and-HDFS-b1b7503de8384145b9fffd0a52fa6afa)
 - 🚀 [Apache Spark](https://tahirm.notion.site/Apache-Spark-c9830af505444d849d54f41083eaf13f)
@@ -87,5 +91,6 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - 👁️ [Deep Learning - Computer Vision](https://www.notion.so/Deep-Learning-Computer-Vision-25bcbbb5625747009c8ccb6d094aafe2?pvs=21)
 - 🛠️ [MLOPs](https://www.notion.so/MLOPs-4de055f4ad5141618cb796989a30ac1b?pvs=21)
 - 🧠 [Machine Learning System Design](https://www.notion.so/Machine-Learning-System-Design-f9f0879cb2bb41ed84e1b21bb69a50d6?pvs=21)
+- 🚀 [ML Deployment w/ Flask, Docker and AWS EB](https://tahirm.notion.site/Model-Deployment-via-Flask-Docker-and-AWS-Elastic-Beanstalk-eb47f898836d4b0e807e28d7faeb790b)
 - 🌐 [Large Scale ML](https://www.notion.so/Large-Scale-ML-10fddc5d0de34e6a974e873d6aa1c2a5?pvs=21)
 - ➕ [Numpy Broadcasting](https://www.notion.so/Numpy-Broadcasting-cfb42b3b8432413e8007dc04c9dbce42?pvs=21)
