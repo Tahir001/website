@@ -7,7 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-My name is Tahir Muhammad, and I am a technology enthusiast. I love to learn, work on solving challenging & meaningful problems with the help of technology, enjoy automating mundane & redundant tasks for my colleagues & friends to help spread the joy of tech. 😊💻
+My name is Tahir Muhammad and I love to learn, build, teach, and work on challenging & meaningful problems. Here's a snapshot of some of my key achievements: 
+
+- 🎓 Completed 4 majors (Math, CS, Econ, Stats) at University of Toronto (UofT) in 6 years (While working some of the years!)
+- 🧑‍🏫 Taught 6 courses in Data Science and Computer Science at UofT, Including Machine Learning -- A masters level course with NO masters degree!
+- 📄 Published a paper in theoretical statistics on Type II censored data helping other researchers work with cancer patients data
+- 🚀 Co-founded Nox, a web app helping professors gauge every student's level of understanding in real-time
+- 👮 Worked with Ontario Provincal Police (OOP) and one of Canada's largest bank (Scotiabank) as an AI Research Engineer, identifying money launderers and human traffickers
+- 🌍 Built predictive models for ESG companies at RBC.
+- 🤖 Developed machine learning models for text recognition and summarization.
+- 💼 Founded the Enterprise Risk chapter at RBC as an intern, empowering colleagues with code.
+- 🏦 Strategy Data Scientist at TD Bank, leading data ingestion into Microsoft Azure Cloud.
+- 🔧 Currently helping BlueCat build a data platform handling 10M+ rows/minute for threat detection.
+
 
 Here's a little bit about more in a Nutshell:
 
