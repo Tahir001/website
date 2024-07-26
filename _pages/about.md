@@ -17,7 +17,7 @@ My name is Tahir Muhammad and I love to learn, build, teach, and work on challen
 - 🌍 Built recommendation engines and predictive models for Environmental & Social Governance (ESG) at Royal Bank of Canada (RBC)
 - 💼 Founded the Enterprise Risk chapter at RBC where I organized, led, taught, and empowered my finance and risk co-workers to build with code (as an Intern!)
 - 🤖 Developed machine learning models for text classification and text summarization on plethora of documents at TD Bank
-- 🏦 Full Stack Strategy Data Scientist at TD Bank: Collaborated with directors and VPs on data strategy, built automated pipelines and dashboards, and led the data migration of on-prem data to MS Azure for Finance
+- 🏦 Full Stack Strategy Data Scientist at TD Bank: Collaborated with directors and VPs on data strategy, built automated pipelines and dashboards, and led the data migration of on-prem data to MS Azure for our Risk and Finance partners
 - 🔧 Currently helping BlueCat build a data platform handling petabyes of data for threat detection models, and building features for our core product 
 
 
