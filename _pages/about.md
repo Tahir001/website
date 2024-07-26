@@ -9,16 +9,16 @@ redirect_from:
 
 My name is Tahir Muhammad and I love to learn, build, teach, and work on challenging & meaningful problems. Here's a snapshot of some of my key achievements: 
 
-- 🎓 Completed 4 majors (Math, CS, Econ, Stats) at University of Toronto (UofT) in 6 years (While working some of the years!)
+- 🎓 Completed 4 majors (Math, CS, Econ, Stats) at University of Toronto (UofT) in 6 years (While working full time for one of the years!)
 - 🧑‍🏫 Taught 6 courses in Data Science and Computer Science at UofT, Including Machine Learning -- A masters level course with NO masters degree!
 - 📄 Published a paper in theoretical statistics on Type II censored data helping other researchers work with cancer patients data
 - 🚀 Co-founded Nox, a web app helping professors gauge every student's level of understanding in real-time
-- 👮 Worked with Ontario Provincal Police (OOP) and one of Canada's largest bank (Scotiabank) as an AI Research Engineer, identifying money launderers and human traffickers
-- 🌍 Built predictive models for ESG companies at RBC.
-- 🤖 Developed machine learning models for text recognition and summarization.
-- 💼 Founded the Enterprise Risk chapter at RBC as an intern, empowering colleagues with code.
-- 🏦 Strategy Data Scientist at TD Bank, leading data ingestion into Microsoft Azure Cloud.
-- 🔧 Currently helping BlueCat build a data platform handling 10M+ rows/minute for threat detection.
+- 👮 Worked with Ontario Provincal Police (OOP) and one of Canada's largest bank (Scotiabank) as an AI Research Engineer, identifying money launderers and human trafficking entities 
+- 🌍 Built recommendation engines and predictive models for Environmental & Social Governance (ESG) at Royal Bank of Canada (RBC)
+- 💼 Founded the Enterprise Risk chapter at RBC where I organized, led, taught, and empowered my finance and risk co-workers to build with code (as an Intern!)
+- 🤖 Developed machine learning models for text classification and text summarization on plethora of documents at TD Bank
+- 🏦 Full Stack Strategy Data Scientist at TD Bank -> Strategizing with directors and VPs on data quality, metrics, dashboarding, and leading initiatives such as data ingestion into MS Azure
+- 🔧 Currently helping BlueCat build a data platform handling 10M+ rows/minute for threat detection models, and building features for our core product :
 
 
 Here's a little bit about more in a Nutshell:
