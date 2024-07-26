@@ -32,7 +32,7 @@ Please feel free to reach out on [LinkedIn](https://www.linkedin.com/in/tahir-mu
 - 📈 Statistics
 - 🤖 Machine Learning
 - 🔍 Fraud Detection
-- 🌟 Leadership
+- 🌟 Leadership and Innovation
 - 💰 Finance
 - ⚠️ Anomaly Detection
 - 🗃️ Data Strategy and Operations
@@ -41,7 +41,6 @@ Please feel free to reach out on [LinkedIn](https://www.linkedin.com/in/tahir-mu
 - 🛢️ Data Engineering
 - 🔄 Continuous Integration/Continuous Deployment (CI/CD)
 - 🌐 Cloud Computing
-- 💡 Innovation
 - 💬 Natural Language Processing (NLP)
 - 📦 Containerization 
 - 🤖 LLMs (RAG, Vector DBs, langchain, etc.)
