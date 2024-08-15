@@ -9,8 +9,8 @@ main:
   - title: "AI Notes"
     url: /AInotes/
 
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
 
   # - title: "CV"
   #   url: https://drive.google.com/file/d/1uJlcTMgemAf_OwOiJfJVR8eZh7XH34sT/view?usp=sharing
