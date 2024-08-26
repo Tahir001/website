@@ -30,6 +30,7 @@ __Current Work & Personal Tech Stack:__ AWS, Docker, Kubernetes, Apache Pulsar, 
 - 🔍 [Algorithms](https://tahirm.notion.site/Algorithms-043c3ce6a3d74ddabee60ccd3f72d88a?pvs=4)
 - 🧪 [Object Oriented Programming](https://www.notion.so/Object-Oriented-Programming-94a878065ed44c9b8a36b348a1d0ff38?pvs=21)
 - 🎯 [Patterns for Coding Interviews](https://tahirm.notion.site/Patterns-for-Coding-Interviews-fdee4b717ef745ee871aab2e2ad905be)
+- 🌟 [Interview CheatSheet (Templates)](https://tahirm.notion.site/Cheat-Sheet-for-Interviews-30ea0ebd111c42048c012d82780971c0?pvs=25)
 
 # Systems Design & Infrastructure Concepts 
 
