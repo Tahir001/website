@@ -43,6 +43,6 @@ Please feel free to reach out on [LinkedIn](https://www.linkedin.com/in/tahir-mu
 - 🌐 Cloud Computing
 - 💬 Natural Language Processing (NLP)
 - 📦 Containerization 
-- 🤖 LLMs (RAG, Vector DBs, langchain, etc.)
+- 🤖 LLMs (RAG, Vector DBs, Quantization, Automated Evaluation, etc.)
 
 Thank you for visiting my personal website! 🌐
