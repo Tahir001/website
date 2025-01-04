@@ -115,7 +115,7 @@ The following page showcases some of my papers and projects worked on by me over
     <div class="project-details">
       <div class="project-title">Canadian Codes </div>
       <div class="project-authors">Tahir Muhammad, Shoaib Khan </div>
-      <div class="project-conference">LLM Chatbot built on a comprehensive collection of Canadian building codes to empower DIYers, contractors and small business owners</div>
+      <div class="project-conference two-line-wrap">LLM Chatbot built on a comprehensive collection of Canadian building codes to empower DIYers, contractors and small business owners</div>
       <div class="project-buttons">
         <a class="paper" href="#">Paper</a>
         <a class="abstract" href="https://tahir001.github.io/website/portfolio/">Code</a>
