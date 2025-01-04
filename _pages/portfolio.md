@@ -27,7 +27,8 @@ The following page showcases some of my papers and projects worked on by me over
     .project3,
     .project4,
     .project5,
-    .project6 {
+    .project6,
+    .project7 {
         display: flex;
         align-items: center;
         margin-bottom: 15px; /* Decrease length by 5px */
