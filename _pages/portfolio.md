@@ -109,6 +109,20 @@ The following page showcases some of my papers and projects worked on by me over
 
 <div class="container">
 
+  <div class="project7">
+    <img class="project-img" src="../images/canadian_codes.png" alt="Project 7 Image">
+    <div class="project-details">
+      <div class="project-title">Canadian Codes </div>
+      <div class="project-authors">Tahir Muhammad, Shoaib Khan </div>
+      <div class="project-conference">LLM Chatbot built on a comprehensive collection of Canadian building codes to empower DIYers, contractors and small business owners</div>
+      <div class="project-buttons">
+        <a class="paper" href="#">Paper</a>
+        <a class="abstract" href="https://tahir001.github.io/website/portfolio/">Code</a>
+        <a class="project-page" href="https://www.canadiancodes.ca/">Presentation</a>
+      </div>
+    </div>
+  </div>
+
   <div class="project6">
     <img class="project-img" src="../images/warnify_fraud.png" alt="Project 6 Image">
     <div class="project-details">
@@ -187,7 +201,7 @@ The following page showcases some of my papers and projects worked on by me over
       <div class="project-authors">Tahir Muhammad</div>
       <div class="project-conference">Best Paper Award from all Statistical Learning II students (Recieved 98%)</div>
       <div class="project-buttons">
-        <a class="paper" href="https://drive.google.com/file/d/1mbH0SWPg9T1fQf9CLOnZP9zLOF6jSFdx/view?usp=sharing"> Paper</a>
+        <a class="paper" href="https://drive.google.com/file/d/1zaicUwrFPV1ru0GxhlvkTUbTOF_DfZ4X/view?usp=sharing"> Paper</a>
         <a class="abstract" href="https://github.com/Tahir001/R/blob/master/Solutions/SparseGroupLasso.R"> Code</a>
         <a class="project-page" href="https://docs.google.com/presentation/d/10pM19yjenCYsvZOFWCuAXsoiftGot3lFHjQvUJ7hheM/edit?usp=sharing"> Presentation</a>
       </div>
