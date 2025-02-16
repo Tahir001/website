@@ -121,7 +121,7 @@ The following page showcases some of my papers and projects worked on by me over
       <div class="project-title">Canadian Codes </div>
       <div class="project-authors">Tahir Muhammad (AI Consultant) </div>
       <div class="project-conference">LLM Chatbot built on a comprehensive collection of Canadian building codes to empower DIYers,<br> contractors, and small business owners</div>
-      <div class="project-tech"> LangChain, vector DB (ChromaDB, FAISS), LLMs (Mistral, Gemma, Llama2B), Embedding Models</div>
+      <div class="project-tech"> LangChain, NLP, Vector DB (ChromaDB, FAISS), LLMs (Mistral, Gemma, Llama2B), Embedding Models</div>
       <div class="project-buttons">
         <a class="paper" href="#">Paper</a>
         <a class="abstract" href="https://tahir001.github.io/website/portfolio/">Code</a>
@@ -136,6 +136,7 @@ The following page showcases some of my papers and projects worked on by me over
       <div class="project-title">Warnify </div>
       <div class="project-authors">Tahir Muhammad, Shoaib Khan, Erub Khan </div>
       <div class="project-conference">Detecting Fraudulent SMS messages with Machine Learning</div>
+      <div class="project-tech"> Natural Language Processing, Tensorflow, Tensorflow Serving Random Forest,JavaScript, React, HTML/CSS, Mlflow</div>
       <div class="project-buttons">
         <a class="paper" href="#">Paper</a>
         <a class="abstract" href="https://github.com/Warnify">Code</a>
@@ -150,6 +151,7 @@ The following page showcases some of my papers and projects worked on by me over
       <div class="project-title">Fraudit </div>
       <div class="project-authors">Tahir Muhammad, Hafsa Zahid, Cindy Lau, Albert S. </div>
       <div class="project-conference">Detecting Fraudulent Loans with Scotiabank & University of Toronto</div>
+      <div class="project-tech"> Pytorch </div>
       <div class="project-buttons">
         <a class="paper" href="#">Paper</a>
         <a class="abstract" href="https://github.com/Tahir001/Fraudit/blob/main/Scripts/IMI%20CASE%20COMPETITION%20%5BMaster%20Sheet%5D.ipynb">Code</a>
