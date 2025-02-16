@@ -136,7 +136,7 @@ The following page showcases some of my papers and projects worked on by me over
       <div class="project-title">Warnify </div>
       <div class="project-authors">Tahir Muhammad, Shoaib Khan, Erub Khan </div>
       <div class="project-conference">Detecting Fraudulent SMS messages with Machine Learning</div>
-      <div class="project-tech"> Natural Language Processing, Tensorflow, Tensorflow Serving, Mlflow, JavaScript, React, HTML/CSS</div>
+      <div class="project-tech"> Natural Language Processing, FastAPI, Tensorflow Serving, Mlflow, JavaScript, React, HTML/CSS</div>
       <div class="project-buttons">
         <a class="paper" href="#">Paper</a>
         <a class="abstract" href="https://github.com/Warnify">Code</a>

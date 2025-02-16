@@ -13,7 +13,7 @@ main:
     url: /portfolio/
 
   - title: "CV"
-    url: https://drive.google.com/file/d/1jczgiQZwNcLAv8nFg57LrHHOdxUnBG25/view?usp=sharing
+    url: https://drive.google.com/file/d/1Xgb2jmDP9PtCO3momx63j9e--Gaxr5qb/view?usp=drive_link
     external: true  # This opens the link in a new tab
     download: true  # This prompts the browser to download the file
 
