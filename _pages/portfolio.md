@@ -120,8 +120,8 @@ The following page showcases some of my papers and projects worked on by me over
     <div class="project-details">
       <div class="project-title">Canadian Codes </div>
       <div class="project-authors">Tahir Muhammad (AI Consultant) </div>
-      <div class="project-conference">LLM Chatbot built on a comprehensive collection of Canadian building codes to empower DIYers,<br> contractors, and small business owners</div>
-      <div class="project-tech"> LangChain, NLP, Vector DB (ChromaDB, FAISS), LLMs (Mistral, Gemma, Llama2B), Embedding Models</div>
+      <div class="project-conference">LLM Chatbot (RAG) built on a comprehensive collection of Canadian building codes to empower DIYers,<br> contractors, and small business owners</div>
+      <div class="project-tech"> LangChain, NLP, Vector DB (ChromaDB, FAISS), LLMs (Mistral, Gemma, Llama2B), Embedding Models, MS Azure</div>
       <div class="project-buttons">
         <a class="paper" href="#">Paper</a>
         <a class="abstract" href="https://tahir001.github.io/website/portfolio/">Code</a>
@@ -136,7 +136,7 @@ The following page showcases some of my papers and projects worked on by me over
       <div class="project-title">Warnify </div>
       <div class="project-authors">Tahir Muhammad, Shoaib Khan, Erub Khan </div>
       <div class="project-conference">Detecting Fraudulent SMS messages with Machine Learning</div>
-      <div class="project-tech"> Natural Language Processing, Tensorflow, Tensorflow Serving Random Forest,JavaScript, React, HTML/CSS, Mlflow</div>
+      <div class="project-tech"> Natural Language Processing, Tensorflow, Tensorflow Serving, Mlflow, JavaScript, React, HTML/CSS</div>
       <div class="project-buttons">
         <a class="paper" href="#">Paper</a>
         <a class="abstract" href="https://github.com/Warnify">Code</a>
