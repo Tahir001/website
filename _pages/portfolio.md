@@ -151,7 +151,6 @@ The following page showcases some of my papers and projects worked on by me over
       <div class="project-title">Fraudit </div>
       <div class="project-authors">Tahir Muhammad, Hafsa Zahid, Cindy Lau, Albert S. </div>
       <div class="project-conference">Detecting Fraudulent Loans with Scotiabank & University of Toronto</div>
-      <div class="project-tech"> Pytorch </div>
       <div class="project-buttons">
         <a class="paper" href="#">Paper</a>
         <a class="abstract" href="https://github.com/Tahir001/Fraudit/blob/main/Scripts/IMI%20CASE%20COMPETITION%20%5BMaster%20Sheet%5D.ipynb">Code</a>
