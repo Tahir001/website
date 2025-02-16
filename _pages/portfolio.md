@@ -62,6 +62,11 @@ The following page showcases some of my papers and projects worked on by me over
     }
 
     .project-conference {
+        /*font-style: italic;*/ 
+        font-size: 12px; /* Increase font size by 1px */
+        margin-bottom: 5px;
+    }
+    .project-tech {
         font-style: italic;
         font-size: 12px; /* Increase font size by 1px */
         margin-bottom: 5px;
@@ -116,6 +121,7 @@ The following page showcases some of my papers and projects worked on by me over
       <div class="project-title">Canadian Codes </div>
       <div class="project-authors">Tahir Muhammad (AI Consultant) </div>
       <div class="project-conference">LLM Chatbot built on a comprehensive collection of Canadian building codes to empower DIYers,<br> contractors, and small business owners</div>
+      <div class="project-tech"> LangChain, vector DB (ChromaDB, FAISS), LLMs (Mistral, Gemma, Llama2B), Embedding Models</div>
       <div class="project-buttons">
         <a class="paper" href="#">Paper</a>
         <a class="abstract" href="https://tahir001.github.io/website/portfolio/">Code</a>
