@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tahir Muhammad"
   avatar           : "profile3.jpeg"
-  bio              : "AI Research Engineer"
+  bio              : "AI Engineer"
   location         : "Toronto, Canada"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "Tahir.muhammad@mail.utoronto.ca"
+  email            : "Tahir.muhammad@alumni.utoronto.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
